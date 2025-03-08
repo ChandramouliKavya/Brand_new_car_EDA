@@ -1,0 +1,1343 @@
+brands,models,body,variant,fuel,transmission,city,price,mileage,engine_power
+Mahindra,XUV700,SUV7,2.0 MX (E),Petrol,Manual, Bangalore,18.26,12.00 Km/l,1997 cc
+Hyundai,Verna,Sedan5,1.5 SX IVT,Petrol,Automatic, Bangalore,18.19,25.00 Km/l,1497 cc
+Hyundai,Exter,SUV5,1.2 S AMT,Petrol,Automatic, Bangalore,10.22,19.40 Km/l,1197 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive S,Petrol,Manual, Bangalore,15.94,21.12 Km/l,1462 cc
+Hyundai,Venue,SUV5,1.2 S(O),Petrol,Manual, Bangalore,12.12,17.52 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 EX,Petrol,Manual, Bangalore,15.58,17.40 Km/l,1497 cc
+Mahindra,XUV700,SUV7,2.0 AX3,Petrol,Manual, Chennai,20.75,12.00 Km/l,1997 cc
+Hyundai,Creta,SUV5,1.5 E,Petrol,Manual, Chennai,13.89,17.40 Km/l,1497 cc
+Hyundai,Venue,SUV5,1.2 E,Petrol,Manual, Chennai,9.52,17.52 Km/l,1197 cc
+Tata,Nexon,SUV5,1.5 Smart Plus S,Diesel,Manual, Chennai,12.93,17.40 Km/l,1199 cc
+Hyundai,Exter,SUV5,1.2 EX,Petrol,Manual, Chennai,7.49,19.40 Km/l,1197 cc
+Hyundai,i20,Hatchback5,1.2 Sportz,Petrol,Manual, Chennai,10.08,20.35 Km/l,1197 cc
+Mahindra,XUV 3XO,SUV5,1.2 AX7 TGDi,Petrol,Manual, Chennai,15.81,21.20 Km/l,1497 cc
+Maruti Suzuki,Ertiga,SUV7,VXi(O) CNG,CNG,Manual, Chennai,13.34,20.51 Km/l,1462 cc
+Mahindra,XUV700,SUV7,2.2 MX Diesel,Diesel,Manual, Delhi,18.3,12.00 Km/l,1997 cc
+Tata,Harrier,SUV5,Pure (O),Diesel,Manual, Delhi,20.58,16.80 Km/l,1956 cc
+Hyundai,Verna,Sedan5,1.5 S,Petrol,Manual, Delhi,14.2,25.00 Km/l,1497 cc
+Hyundai,i20,Hatchback5,1.2 Asta,Petrol,Manual, Delhi,10.68,20.35 Km/l,1197 cc
+Kia,Seltos,SUV5,1.5 HTX,Petrol,Manual, Delhi,18.16,17.90 Km/l,1482 cc
+Honda,Elevate,SUV5,SV-R,Petrol,Manual, Delhi,13.98,15.31 Km/l,1498 cc
+Hyundai,Creta,SUV5,1.5 E,Petrol,Manual, Delhi,13.03,17.40 Km/l,1497 cc
+Tata,Nexon,SUV5,1.2 Smart Plus,Petrol,Manual, Delhi,10.02,17.40 Km/l,1199 cc
+Hyundai,Venue,SUV5,1.2 S,Petrol,Manual, Delhi,10.47,17.52 Km/l,1197 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Era,Petrol,Manual, Delhi,6.74,18.00 Km/l,1197 cc
+Hyundai,Exter,SUV5,1.2 EX(O),Petrol,Manual, Delhi,7.55,19.40 Km/l,1197 cc
+Kia,Sonet,SUV5,1.2 HTK(O),Petrol,Manual, Delhi,10.66,18.40 Km/l,1197 cc
+Maruti Suzuki,Swift,Hatchback5,ZXi,Petrol,Manual, Delhi,9.31,24.80 Km/l,1197 cc
+Tata,Punch,SUV5,Pure CNG,CNG,Manual, Delhi,8.28,20.09 Km/l,1199 cc
+Tata,Harrier,SUV5,Pure (O),Diesel,Manual, Faridabad,19.74,16.80 Km/l,1956 cc
+Mahindra,XUV700,SUV7,2.0 AX5 AT 7 STR Select,Petrol,Automatic, Faridabad,22.02,12.00 Km/l,1997 cc
+Hyundai,Verna,Sedan5,1.5 S,Petrol,Manual, Faridabad,13.7,25.00 Km/l,1497 cc
+Honda,Elevate,SUV5,SV-R,Petrol,Manual, Faridabad,13.73,15.31 Km/l,1498 cc
+Tata,Nexon,SUV5,1.2 Smart Plus,Petrol,Manual, Faridabad,10.07,17.40 Km/l,1199 cc
+Kia,Seltos,SUV5,1.5 HTX,Petrol,Manual, Faridabad,17.81,17.90 Km/l,1482 cc
+Hyundai,i20,Hatchback5,1.2 Asta,Petrol,Manual, Faridabad,10.6,20.35 Km/l,1197 cc
+Kia,Sonet,SUV5,1.2 HTK(O),Petrol,Manual, Faridabad,10.73,18.40 Km/l,1197 cc
+Maruti Suzuki,Swift,Hatchback5,VXi,Petrol,Manual, Faridabad,8.29,24.80 Km/l,1197 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Era,Petrol,Manual, Faridabad,6.67,18.00 Km/l,1197 cc
+Hyundai,Venue,SUV5,1.2 S,Petrol,Manual, Faridabad,10.4,17.52 Km/l,1197 cc
+Tata,Punch,SUV5,Pure CNG,CNG,Manual, Faridabad,8.3,20.09 Km/l,1199 cc
+Hyundai,Exter,SUV5,1.2 EX(O),Petrol,Manual, Faridabad,7.48,19.40 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 E,Petrol,Manual, Faridabad,12.57,17.40 Km/l,1497 cc
+Tata,Harrier,SUV5,Adventure Plus AT,Diesel,Automatic, Ghaziabad,25.88,16.80 Km/l,1956 cc
+Hyundai,Verna,Sedan5,1.5 SX,Petrol,Manual, Ghaziabad,15.1,25.00 Km/l,1497 cc
+Honda,Elevate,SUV5,SV-R,Petrol,Manual, Ghaziabad,13.97,15.31 Km/l,1498 cc
+Hyundai,i20,Hatchback5,1.2 Magna,Petrol,Manual, Ghaziabad,8.83,20.35 Km/l,1197 cc
+Hyundai,Venue,SUV5,1.2 E,Petrol,Manual, Ghaziabad,9,17.52 Km/l,1197 cc
+Kia,Seltos,SUV5,1.5 HTK Plus iMT GDi,Petrol,Manual, Ghaziabad,18.39,17.90 Km/l,1482 cc
+Tata,Nexon,SUV5,1.2 Smart Plus S,Petrol,Manual, Ghaziabad,10.4,17.40 Km/l,1199 cc
+Mahindra,XUV700,SUV7,2.0 MX,Petrol,Manual, Ghaziabad,17.28,12.00 Km/l,1997 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Era,Petrol,Manual, Ghaziabad,6.84,18.00 Km/l,1197 cc
+Kia,Sonet,SUV5,1.0 X Line DCT,Petrol,Automatic, Ghaziabad,17.39,18.40 Km/l,1197 cc
+Maruti Suzuki,Swift,Hatchback5,ZXi Plus,Petrol,Manual, Ghaziabad,10.13,24.80 Km/l,1197 cc
+Hyundai,Exter,SUV5,1.2 EX(O),Petrol,Manual, Ghaziabad,7.47,19.40 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 E,Petrol,Manual, Ghaziabad,12.79,17.40 Km/l,1497 cc
+Tata,Punch,SUV5,Pure CNG,CNG,Manual, Ghaziabad,8.29,20.09 Km/l,1199 cc
+Tata,Harrier,SUV5,Pure (O),Diesel,Manual, Gurgaon,19.74,16.80 Km/l,1956 cc
+Mahindra,XUV700,SUV7,2.0 AX5 AT 7 STR Select,Petrol,Automatic, Gurgaon,22.02,12.00 Km/l,1997 cc
+Hyundai,Verna,Sedan5,1.5 S,Petrol,Manual, Gurgaon,13.7,25.00 Km/l,1497 cc
+Honda,Elevate,SUV5,SV-R,Petrol,Manual, Gurgaon,13.73,15.31 Km/l,1498 cc
+Tata,Nexon,SUV5,1.2 Smart Plus,Petrol,Manual, Gurgaon,10.07,17.40 Km/l,1199 cc
+Kia,Seltos,SUV5,1.5 HTX,Petrol,Manual, Gurgaon,17.81,17.90 Km/l,1482 cc
+Hyundai,i20,Hatchback5,1.2 Asta,Petrol,Manual, Gurgaon,10.6,20.35 Km/l,1197 cc
+Kia,Sonet,SUV5,1.2 HTK(O),Petrol,Manual, Gurgaon,10.73,18.40 Km/l,1197 cc
+Maruti Suzuki,Swift,Hatchback5,VXi,Petrol,Manual, Gurgaon,8.29,24.80 Km/l,1197 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Era,Petrol,Manual, Gurgaon,6.67,18.00 Km/l,1197 cc
+Hyundai,Venue,SUV5,1.2 S,Petrol,Manual, Gurgaon,10.4,17.52 Km/l,1197 cc
+Tata,Punch,SUV5,Pure CNG,CNG,Manual, Gurgaon,8.3,20.09 Km/l,1199 cc
+Hyundai,Exter,SUV5,1.2 EX(O),Petrol,Manual, Gurgaon,7.48,19.40 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 E,Petrol,Manual, Gurgaon,12.57,17.40 Km/l,1497 cc
+Mahindra,XUV700,SUV7,2.2 AX5 Diesel,Diesel,Manual, Hyderabad,22.9,12.00 Km/l,1997 cc
+Skoda,Kushaq,SUV5,1.0 Monte Carlo,Petrol,Manual, Hyderabad,19.68,19.20 Km/l,999 cc
+Hyundai,Aura,Sedan5,1.2 SX,Petrol,Manual, Hyderabad,9.81,21.00 Km/l,1197 cc
+Hyundai,Venue N-Line,SUV5,N8 DCT,Petrol,Automatic, Hyderabad,16.97,20.00 Km/l,998 cc
+Tata,Altroz,Hatchback5,1.2 XTA,Petrol,Automatic, Hyderabad,11.01,25.11 Km/l,1497 cc
+Skoda,Slavia,Sedan5,1.0 Prestige AT,Petrol,Automatic, Hyderabad,21.04,19.47 Km/l,999 cc
+Hyundai,Venue,SUV5,1.5 SX,Diesel,Manual, Hyderabad,15.38,17.52 Km/l,1197 cc
+Tata,Punch,SUV5,Adventure Rhythm,Petrol,Manual, Hyderabad,9.08,20.09 Km/l,1199 cc
+Maruti Suzuki,New Grand Vitara,SUV5,Delta,Petrol,Manual, Hyderabad,15.23,21.11 Km/l,1462 cc
+Maruti Suzuki,Baleno,Hatchback5,1.2 Zeta AMT,Petrol,Automatic, Hyderabad,10.81,22.35 Km/l,1197 cc
+Maruti Suzuki,Brezza,SUV5,LXi CNG,CNG,Manual, Hyderabad,11.27,20.10 Km/l,1462 cc
+Nissan,Magnite (2020-2024),SUV5,XV Premium,Petrol,Manual, Hyderabad,10.42,18.75 Km/l,999 cc
+Maruti Suzuki,XL6,SUV6,Zeta CNG,CNG,Manual, Hyderabad,15.7,20.97 Km/l,1462 cc
+Maruti Suzuki,Ertiga,SUV7,VXi(O),Petrol,Manual, Hyderabad,11.91,20.51 Km/l,1462 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive E,Petrol,Manual, Mumbai,13.68,21.12 Km/l,1462 cc
+Mahindra,XUV700,SUV7,2.0 AX5 7 STR Select,Petrol,Manual, Mumbai,20.36,12.00 Km/l,1997 cc
+Hyundai,Venue,SUV5,1.2 S,Petrol,Manual, Mumbai,10.86,17.52 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 S Diesel,Diesel,Manual, Mumbai,18.16,17.40 Km/l,1497 cc
+Tata,Nexon,SUV5,1.2 Smart Plus,Petrol,Manual, Mumbai,10.37,17.40 Km/l,1199 cc
+Hyundai,Exter,SUV5,1.2 SX AMT,Petrol,Automatic, Mumbai,10.61,19.40 Km/l,1197 cc
+Hyundai,Aura,Sedan5,1.2 S CNG,CNG,Manual, Mumbai,9.58,21.00 Km/l,1197 cc
+Tata,Punch,SUV5,Pure,Petrol,Manual, Mumbai,7.29,20.09 Km/l,1199 cc
+Tata,Harrier,SUV5,Adventure Plus AT,Diesel,Automatic, Noida,25.88,16.80 Km/l,1956 cc
+Hyundai,Verna,Sedan5,1.5 SX,Petrol,Manual, Noida,15.1,25.00 Km/l,1497 cc
+Honda,Elevate,SUV5,SV-R,Petrol,Manual, Noida,13.97,15.31 Km/l,1498 cc
+Hyundai,i20,Hatchback5,1.2 Magna,Petrol,Manual, Noida,8.83,20.35 Km/l,1197 cc
+Hyundai,Venue,SUV5,1.2 E,Petrol,Manual, Noida,9,17.52 Km/l,1197 cc
+Kia,Seltos,SUV5,1.5 HTK Plus iMT GDi,Petrol,Manual, Noida,18.39,17.90 Km/l,1482 cc
+Tata,Nexon,SUV5,1.2 Smart Plus S,Petrol,Manual, Noida,10.4,17.40 Km/l,1199 cc
+Mahindra,XUV700,SUV7,2.0 MX,Petrol,Manual, Noida,17.28,12.00 Km/l,1997 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Era,Petrol,Manual, Noida,6.84,18.00 Km/l,1197 cc
+Kia,Sonet,SUV5,1.0 X Line DCT,Petrol,Automatic, Noida,17.39,18.40 Km/l,1197 cc
+Maruti Suzuki,Swift,Hatchback5,ZXi Plus,Petrol,Manual, Noida,10.13,24.80 Km/l,1197 cc
+Hyundai,Exter,SUV5,1.2 EX(O),Petrol,Manual, Noida,7.47,19.40 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 E,Petrol,Manual, Noida,12.79,17.40 Km/l,1497 cc
+Tata,Punch,SUV5,Pure CNG,CNG,Manual, Noida,8.29,20.09 Km/l,1199 cc
+Tata,Harrier,SUV5,Pure,Diesel,Manual, Pune,20.55,16.80 Km/l,1956 cc
+Tata,Safari,SUV7,Pure Plus,Diesel,Manual, Pune,23.28,16.14 Km/l,1956 cc
+Hyundai,Exter,SUV5,1.2 S,Petrol,Manual, Pune,9.03,19.40 Km/l,1197 cc
+Hyundai,i20,Hatchback5,1.2 Sportz,Petrol,Manual, Pune,10.01,20.35 Km/l,1197 cc
+Hyundai,Venue,SUV5,1.2 E,Petrol,Manual, Pune,9.45,17.52 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 EX,Petrol,Manual, Pune,14.79,,
+Tata,Nexon,SUV5,1.2 Smart Plus,Petrol,Manual, Pune,10.5,17.40 Km/l,1199 cc
+Toyota,Fortuner Legender,SUV7,2.8 4x4 AT,Diesel,Automatic, Ahmedabad,54.09,14.40 Km/l,2755 cc
+Toyota,Rumion,SUV7,V AT Neo Drive,Petrol,Automatic, Ahmedabad,15.65,20.51 Km/l,1462 cc
+Toyota,Innova Crysta,SUV7,GX 7 STR,Diesel,Manual, Ahmedabad,22.88,12.99 Km/l,2393 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive V AWD,Petrol,Manual, Ahmedabad,19.95,21.12 Km/l,1462 cc
+Toyota,Urban Cruiser Taisor,SUV5,1.2 S Plus,Petrol,Manual, Ahmedabad,10.22,21.70 Km/l,1197 cc
+Toyota,Camry,Sedan5,Hybrid,Hybrid,Automatic, Ahmedabad,54.49,25.49,2487 cc
+Toyota,Hilux,Pick,STD 4X4 MT,Diesel,Automatic, Ahmedabad,34,12.00 Km/l,2755 cc
+Toyota,Land Cruiser,SUV5,ZX Diesel,Diesel,Automatic, Ahmedabad,2.29,11.00 Km/l,3346 cc
+Toyota,Vellfire,MPV,Hi,Hybrid,Automatic, Ahmedabad,1.31,19.28,2487 cc
+Toyota,Fortuner,SUV7,2.7 4x2 AT,Petrol,Automatic, Ahmedabad,39.84,10.00 Km/l,2694 cc
+Toyota,Glanza,Hatchback5,V AMT,Petrol,Automatic, Ahmedabad,11.34,22.35 Km/l,1197 cc
+Toyota,Innova Hycross,SUV7,2.0 VX(O) 8 STR Hybrid AT,Hybrid,Automatic, Ahmedabad,31.91,16.13 Km/l,1987 cc
+Toyota,Camry (2022-2024),Sedan5,Hybrid,Hybrid,Automatic, Ahmedabad,52.43,19.1,2487 cc
+Toyota,Innova Crysta (2020-2023),SUV7,2.7 GX 7 STR Petrol,Petrol,Manual, Ahmedabad,20.74,16.00 Km/l,2393 cc
+Toyota,Glanza,Hatchback5,S AMT,Petrol,Automatic, Bangalore,9.99,22.35 Km/l,1197 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive S,Petrol,Manual, Bangalore,15.94,21.12 Km/l,1462 cc
+Toyota,Innova Hycross,SUV7,2.0 GX 7 STR CVT,Petrol,Automatic, Bangalore,25.06,16.13 Km/l,1987 cc
+Toyota,Innova Crysta,SUV8,GX 7 STR,Diesel,Manual, Bangalore,25.04,12.99 Km/l,2393 cc
+Toyota,Rumion,SUV7,S Neo Drive,Petrol,Manual, Bangalore,13,20.51 Km/l,1462 cc
+Toyota,Urban Cruiser Taisor,SUV5,1.2 S,Petrol,Manual, Bangalore,10.36,21.70 Km/l,1197 cc
+Toyota,Fortuner Legender,SUV7,2.8 4x2 AT,Diesel,Automatic, Bangalore,54.64,14.40 Km/l,2755 cc
+Toyota,Fortuner,SUV7,2.7 4x2 MT,Petrol,Manual, Bangalore,41.95,10.00 Km/l,2694 cc
+Toyota,Camry (2022-2024),Sedan5,Hybrid,Hybrid,Automatic, Bangalore,57.6,19.1,2487 cc
+Toyota,Camry,Sedan5,Hybrid,Hybrid,Automatic, Bangalore,61.21,25.49,2487 cc
+Toyota,Hilux,Pick,STD 4X4 MT,Diesel,Automatic, Bangalore,37.59,12.00 Km/l,2755 cc
+Toyota,Land Cruiser,SUV5,ZX Diesel,Diesel,Automatic, Bangalore,2.58,11.00 Km/l,3346 cc
+Toyota,Vellfire,MPV,Hi,Hybrid,Automatic, Bangalore,1.48,19.28,2487 cc
+Toyota,Innova Crysta (2020-2023),SUV7,2.7 GX 7 STR Petrol,Petrol,Manual, Bangalore,23.08,16.00 Km/l,2393 cc
+Toyota,Glanza,Hatchback5,G AMT,Petrol,Automatic, Chennai,11.22,22.35 Km/l,1197 cc
+Toyota,Fortuner Legender,SUV7,2.8 4x4 AT,Diesel,Automatic, Chennai,60.78,14.40 Km/l,2755 cc
+Toyota,Rumion,SUV7,V AT Neo Drive,Petrol,Automatic, Chennai,17.32,20.51 Km/l,1462 cc
+Toyota,Innova Crysta,SUV7,GX 7 STR,Diesel,Manual, Chennai,25.3,12.99 Km/l,2393 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive V AWD,Petrol,Manual, Chennai,22.08,21.12 Km/l,1462 cc
+Toyota,Urban Cruiser Taisor,SUV5,1.2 S Plus,Petrol,Manual, Chennai,10.87,21.70 Km/l,1197 cc
+Toyota,Camry,Sedan5,Hybrid,Hybrid,Automatic, Chennai,61.23,25.49,2487 cc
+Toyota,Hilux,Pick,STD 4X4 MT,Diesel,Automatic, Chennai,37.92,12.00 Km/l,2755 cc
+Toyota,Land Cruiser,SUV5,ZX Diesel,Diesel,Automatic, Chennai,2.58,11.00 Km/l,3346 cc
+Toyota,Vellfire,MPV,Hi,Hybrid,Automatic, Chennai,1.51,19.28,2487 cc
+Toyota,Fortuner,SUV7,2.7 4x2 AT,Petrol,Automatic, Chennai,44.77,10.00 Km/l,2694 cc
+Toyota,Innova Hycross,SUV7,2.0 G-SLF 7 STR CVT,Petrol,Automatic, Chennai,23.97,16.13 Km/l,1987 cc
+Toyota,Camry (2022-2024),Sedan5,Hybrid,Hybrid,Automatic, Chennai,58.91,19.1,2487 cc
+Toyota,Innova Crysta (2020-2023),SUV7,2.7 GX 7 STR Petrol,Petrol,Manual, Chennai,22.93,16.00 Km/l,2393 cc
+Toyota,Glanza,Hatchback5,E,Petrol,Manual, Delhi,7.82,22.35 Km/l,1197 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive S,Petrol,Manual, Delhi,14.78,21.12 Km/l,1462 cc
+Toyota,Rumion,SUV7,S Neo Drive,Petrol,Manual, Delhi,12.13,20.51 Km/l,1462 cc
+Toyota,Innova Crysta,SUV8,GX 7 STR,Diesel,Manual, Delhi,24,12.99 Km/l,2393 cc
+Toyota,Urban Cruiser Taisor,SUV5,1.2 E,Petrol,Manual, Delhi,8.7,21.70 Km/l,1197 cc
+Toyota,Innova Hycross,SUV7,2.0 GX 7 STR CVT,Petrol,Automatic, Delhi,23.23,16.13 Km/l,1987 cc
+Toyota,Fortuner Legender,SUV7,2.8 4x2 AT,Diesel,Automatic, Delhi,52.68,14.40 Km/l,2755 cc
+Toyota,Camry (2022-2024),Sedan5,Hybrid,Hybrid,Automatic, Delhi,53.03,19.1,2487 cc
+Toyota,Fortuner,SUV7,2.7 4x2 MT,Petrol,Manual, Delhi,39.26,10.00 Km/l,2694 cc
+Toyota,Camry,Sedan5,Hybrid,Hybrid,Automatic, Delhi,56.42,25.49,2487 cc
+Toyota,Hilux,Pick,STD 4X4 MT,Diesel,Automatic, Delhi,35.38,12.00 Km/l,2755 cc
+Toyota,Land Cruiser,SUV5,ZX Diesel,Diesel,Automatic, Delhi,2.42,11.00 Km/l,3346 cc
+Toyota,Vellfire,MPV,Hi,Hybrid,Automatic, Delhi,1.39,19.28,2487 cc
+Toyota,Innova Crysta (2020-2023),SUV7,2.7 GX 7 STR Petrol,Petrol,Manual, Delhi,21.47,16.00 Km/l,2393 cc
+Toyota,Glanza,Hatchback5,E,Petrol,Manual, Faridabad,7.84,22.35 Km/l,1197 cc
+Toyota,Innova Crysta,SUV8,GX 7 STR,Diesel,Manual, Faridabad,23.04,12.99 Km/l,2393 cc
+Toyota,Rumion,SUV7,S Neo Drive,Petrol,Manual, Faridabad,11.93,20.51 Km/l,1462 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive S,Petrol,Manual, Faridabad,14.61,21.12 Km/l,1462 cc
+Toyota,Innova Hycross,SUV7,2.0 GX 7 STR CVT,Petrol,Automatic, Faridabad,22.79,16.13 Km/l,1987 cc
+Toyota,Urban Cruiser Taisor,SUV5,1.2 E,Petrol,Manual, Faridabad,8.84,21.70 Km/l,1197 cc
+Toyota,Camry (2022-2024),Sedan5,Hybrid,Hybrid,Automatic, Faridabad,53.16,19.1,2487 cc
+Toyota,Fortuner,SUV7,2.7 4x2 MT,Petrol,Manual, Faridabad,38.98,10.00 Km/l,2694 cc
+Toyota,Fortuner Legender,SUV7,2.8 4x2 AT,Diesel,Automatic, Faridabad,51.21,14.40 Km/l,2755 cc
+Toyota,Camry,Sedan5,Hybrid,Hybrid,Automatic, Faridabad,56.46,25.49,2487 cc
+Toyota,Hilux,Pick,STD 4X4 MT,Diesel,Automatic, Faridabad,33.98,12.00 Km/l,2755 cc
+Toyota,Land Cruiser,SUV5,ZX Diesel,Diesel,Automatic, Faridabad,2.33,11.00 Km/l,3346 cc
+Toyota,Vellfire,MPV,Hi,Hybrid,Automatic, Faridabad,1.33,19.28,2487 cc
+Toyota,Innova Crysta (2020-2023),SUV7,2.7 GX 7 STR Petrol,Petrol,Manual, Faridabad,21.15,16.00 Km/l,2393 cc
+Toyota,Glanza,Hatchback5,E,Petrol,Manual, Ghaziabad,7.85,22.35 Km/l,1197 cc
+Toyota,Rumion,SUV7,S Neo Drive,Petrol,Manual, Ghaziabad,12.12,20.51 Km/l,1462 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive S,Petrol,Manual, Ghaziabad,14.74,21.12 Km/l,1462 cc
+Toyota,Innova Crysta,SUV8,GX 8 STR,Diesel,Manual, Ghaziabad,23.45,12.99 Km/l,2393 cc
+Toyota,Innova Hycross,SUV7,2.0 GX 7 STR CVT,Petrol,Automatic, Ghaziabad,23.19,16.13 Km/l,1987 cc
+Toyota,Urban Cruiser Taisor,SUV5,1.2 E,Petrol,Manual, Ghaziabad,8.75,21.70 Km/l,1197 cc
+Toyota,Camry (2022-2024),Sedan5,Hybrid,Hybrid,Automatic, Ghaziabad,48.36,19.1,2487 cc
+Toyota,Fortuner,SUV7,2.7 4x2 MT,Petrol,Manual, Ghaziabad,39.2,10.00 Km/l,2694 cc
+Toyota,Fortuner Legender,SUV7,2.8 4x2 AT,Diesel,Automatic, Ghaziabad,51.51,14.40 Km/l,2755 cc
+Toyota,Camry,Sedan5,Hybrid,Hybrid,Automatic, Ghaziabad,56.44,25.49,2487 cc
+Toyota,Hilux,Pick,STD 4X4 MT,Diesel,Automatic, Ghaziabad,34.57,12.00 Km/l,2755 cc
+Toyota,Land Cruiser,SUV5,ZX Diesel,Diesel,Automatic, Ghaziabad,2.37,11.00 Km/l,3346 cc
+Toyota,Vellfire,MPV,Hi,Hybrid,Automatic, Ghaziabad,1.39,19.28,2487 cc
+Toyota,Innova Crysta (2020-2023),SUV7,2.7 GX 7 STR Petrol,Petrol,Manual, Ghaziabad,21.49,16.00 Km/l,2393 cc
+Toyota,Glanza,Hatchback5,E,Petrol,Manual, Gurgaon,7.84,22.35 Km/l,1197 cc
+Toyota,Innova Crysta,SUV8,GX 7 STR,Diesel,Manual, Gurgaon,23.04,12.99 Km/l,2393 cc
+Toyota,Rumion,SUV7,S Neo Drive,Petrol,Manual, Gurgaon,11.93,20.51 Km/l,1462 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive S,Petrol,Manual, Gurgaon,14.61,21.12 Km/l,1462 cc
+Toyota,Fortuner Legender,SUV7,2.8 4x2 AT,Diesel,Automatic, Gurgaon,51.21,14.40 Km/l,2755 cc
+Toyota,Camry (2022-2024),Sedan5,Hybrid,Hybrid,Automatic, Gurgaon,53.16,19.1,2487 cc
+Toyota,Innova Hycross,SUV7,2.0 GX 7 STR CVT,Petrol,Automatic, Gurgaon,22.79,16.13 Km/l,1987 cc
+Toyota,Fortuner,SUV7,2.7 4x2 MT,Petrol,Manual, Gurgaon,38.98,10.00 Km/l,2694 cc
+Toyota,Urban Cruiser Taisor,SUV5,1.2 E,Petrol,Manual, Gurgaon,8.84,21.70 Km/l,1197 cc
+Toyota,Camry,Sedan5,Hybrid,Hybrid,Automatic, Gurgaon,56.46,25.49,2487 cc
+Toyota,Hilux,Pick,STD 4X4 MT,Diesel,Automatic, Gurgaon,33.98,12.00 Km/l,2755 cc
+Toyota,Land Cruiser,SUV5,ZX Diesel,Diesel,Automatic, Gurgaon,2.33,11.00 Km/l,3346 cc
+Toyota,Vellfire,MPV,Hi,Hybrid,Automatic, Gurgaon,1.33,19.28,2487 cc
+Toyota,Innova Crysta (2020-2023),SUV7,2.7 GX 7 STR Petrol,Petrol,Manual, Gurgaon,21.15,16.00 Km/l,2393 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive G,Petrol,Manual, Hyderabad,17.95,21.12 Km/l,1462 cc
+Toyota,Glanza,Hatchback5,S AMT,Petrol,Automatic, Hyderabad,9.9,,
+Toyota,Rumion,SUV7,S Neo Drive,Petrol,Manual, Hyderabad,13,20.51 Km/l,1462 cc
+Toyota,Innova Crysta,SUV8,GX 7 STR,Diesel,Manual, Hyderabad,24.86,12.99 Km/l,2393 cc
+Toyota,Innova Hycross,SUV7,2.0 GX 7 STR CVT,Petrol,Automatic, Hyderabad,24.9,16.13 Km/l,1987 cc
+Toyota,Fortuner Legender,SUV7,2.8 4x2 AT,Diesel,Automatic, Hyderabad,54.04,14.40 Km/l,2755 cc
+Toyota,Camry (2022-2024),Sedan5,Hybrid,Hybrid,Automatic, Hyderabad,56.84,19.1,2487 cc
+Toyota,Fortuner,SUV7,2.7 4x2 MT,Petrol,Manual, Hyderabad,41.54,10.00 Km/l,2694 cc
+Toyota,Urban Cruiser Taisor,SUV5,1.2 S Plus,Petrol,Manual, Hyderabad,10.82,21.70 Km/l,1197 cc
+Toyota,Camry,Sedan5,Hybrid,Hybrid,Automatic, Hyderabad,60.26,25.49,2487 cc
+Toyota,Hilux,Pick,STD 4X4 MT,Diesel,Automatic, Hyderabad,37.93,12.00 Km/l,2755 cc
+Toyota,Land Cruiser,SUV5,ZX Diesel,Diesel,Automatic, Hyderabad,2.54,11.00 Km/l,3346 cc
+Toyota,Vellfire,MPV,Hi,Hybrid,Automatic, Hyderabad,1.48,19.28,2487 cc
+Toyota,Innova Crysta (2020-2023),SUV7,2.7 GX 7 STR Petrol,Petrol,Manual, Hyderabad,22.74,16.00 Km/l,2393 cc
+Toyota,Fortuner Legender,SUV7,2.8 4x4 AT,Diesel,Automatic, Jaipur,57.69,14.40 Km/l,2755 cc
+Toyota,Rumion,SUV7,V AT Neo Drive,Petrol,Automatic, Jaipur,16.44,20.51 Km/l,1462 cc
+Toyota,Innova Crysta,SUV7,GX 7 STR,Diesel,Manual, Jaipur,24.41,12.99 Km/l,2393 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive V AWD,Petrol,Manual, Jaipur,20.94,21.12 Km/l,1462 cc
+Toyota,Urban Cruiser Taisor,SUV5,1.2 S Plus,Petrol,Manual, Jaipur,10.61,21.70 Km/l,1197 cc
+Toyota,Camry,Sedan5,Hybrid,Hybrid,Automatic, Jaipur,57.04,25.49,2487 cc
+Toyota,Hilux,Pick,STD 4X4 MT,Diesel,Automatic, Jaipur,35.01,12.00 Km/l,2755 cc
+Toyota,Land Cruiser,SUV5,ZX Diesel,Diesel,Automatic, Jaipur,2.41,11.00 Km/l,3346 cc
+Toyota,Vellfire,MPV,Hi,Hybrid,Automatic, Jaipur,1.39,19.28,2487 cc
+Toyota,Fortuner,SUV7,2.7 4x2 AT,Petrol,Automatic, Jaipur,41.71,10.00 Km/l,2694 cc
+Toyota,Glanza,Hatchback5,V AMT,Petrol,Automatic, Jaipur,11.78,22.35 Km/l,1197 cc
+Toyota,Innova Hycross,SUV7,2.0 G-SLF 7 STR CVT,Petrol,Automatic, Jaipur,22.7,16.13 Km/l,1987 cc
+Toyota,Camry (2022-2024),Sedan5,Hybrid,Hybrid,Automatic, Jaipur,54.88,19.1,2487 cc
+Toyota,Innova Crysta (2020-2023),SUV7,2.7 GX 7 STR Petrol,Petrol,Manual, Jaipur,21.72,16.00 Km/l,2393 cc
+Toyota,Glanza,Hatchback5,E,Petrol,Manual, Mumbai,8.59,22.35 Km/l,1197 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive E,Petrol,Manual, Mumbai,13.68,21.12 Km/l,1462 cc
+Toyota,Rumion,SUV7,S Neo Drive,Petrol,Manual, Mumbai,12.55,20.51 Km/l,1462 cc
+Toyota,Innova Hycross,SUV7,2.0 GX 7 STR CVT,Petrol,Automatic, Mumbai,24.54,16.13 Km/l,1987 cc
+Toyota,Innova Crysta,SUV8,GX 7 STR,Diesel,Manual, Mumbai,24.87,12.99 Km/l,2393 cc
+Toyota,Urban Cruiser Taisor,SUV5,1.2 E CNG,CNG,Manual, Mumbai,9.99,21.70 Km/l,1197 cc
+Toyota,Camry (2022-2024),Sedan5,Hybrid,Hybrid,Automatic, Mumbai,54.48,19.1,2487 cc
+Toyota,Fortuner,SUV7,2.7 4x2 MT,Petrol,Manual, Mumbai,41.18,10.00 Km/l,2694 cc
+Toyota,Fortuner Legender,SUV7,2.8 4x4 AT,Diesel,Automatic, Mumbai,59.94,14.40 Km/l,2755 cc
+Toyota,Camry,Sedan5,Hybrid,Hybrid,Automatic, Mumbai,59.41,25.49,2487 cc
+Toyota,Hilux,Pick,STD 4X4 MT,Diesel,Automatic, Mumbai,38.55,12.00 Km/l,2755 cc
+Toyota,Land Cruiser,SUV5,ZX Diesel,Diesel,Automatic, Mumbai,2.37,11.00 Km/l,3346 cc
+Toyota,Vellfire,MPV,Hi,Hybrid,Automatic, Mumbai,1.46,19.28,2487 cc
+Toyota,Innova Crysta (2020-2023),SUV7,2.7 GX 7 STR Petrol,Petrol,Manual, Mumbai,21.11,16.00 Km/l,2393 cc
+Toyota,Glanza,Hatchback5,E,Petrol,Manual, Noida,7.85,22.35 Km/l,1197 cc
+Toyota,Rumion,SUV7,S Neo Drive,Petrol,Manual, Noida,12.12,20.51 Km/l,1462 cc
+Toyota,Innova Crysta,SUV8,GX 8 STR,Diesel,Manual, Noida,23.45,12.99 Km/l,2393 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive S,Petrol,Manual, Noida,14.74,21.12 Km/l,1462 cc
+Toyota,Innova Hycross,SUV7,2.0 GX 7 STR CVT,Petrol,Automatic, Noida,23.19,16.13 Km/l,1987 cc
+Toyota,Urban Cruiser Taisor,SUV5,1.2 E,Petrol,Manual, Noida,8.75,21.70 Km/l,1197 cc
+Toyota,Camry (2022-2024),Sedan5,Hybrid,Hybrid,Automatic, Noida,48.36,19.1,2487 cc
+Toyota,Fortuner,SUV7,2.7 4x2 MT,Petrol,Manual, Noida,39.2,10.00 Km/l,2694 cc
+Toyota,Fortuner Legender,SUV7,2.8 4x2 AT,Diesel,Automatic, Noida,51.51,14.40 Km/l,2755 cc
+Toyota,Camry,Sedan5,Hybrid,Hybrid,Automatic, Noida,56.44,25.49,2487 cc
+Toyota,Hilux,Pick,STD 4X4 MT,Diesel,Automatic, Noida,34.57,12.00 Km/l,2755 cc
+Toyota,Land Cruiser,SUV5,ZX Diesel,Diesel,Automatic, Noida,2.37,11.00 Km/l,3346 cc
+Toyota,Vellfire,MPV,Hi,Hybrid,Automatic, Noida,1.39,19.28,2487 cc
+Toyota,Innova Crysta (2020-2023),SUV7,2.7 GX 7 STR Petrol,Petrol,Manual, Noida,21.49,16.00 Km/l,2393 cc
+Toyota,Glanza,Hatchback5,G AMT,Petrol,Automatic, Pune,11.04,22.35 Km/l,1197 cc
+Toyota,Fortuner Legender,SUV7,2.8 4x4 AT,Diesel,Automatic, Pune,58.52,14.40 Km/l,2755 cc
+Toyota,Rumion,SUV7,V AT Neo Drive,Petrol,Automatic, Pune,16.51,20.51 Km/l,1462 cc
+Toyota,Innova Crysta,SUV7,GX 7 STR,Diesel,Manual, Pune,24.54,12.99 Km/l,2393 cc
+Toyota,Urban Cruiser Hyryder,SUV5,Neodrive V AWD,Petrol,Manual, Pune,21.05,21.12 Km/l,1462 cc
+Toyota,Urban Cruiser Taisor,SUV5,1.2 S Plus,Petrol,Manual, Pune,10.69,21.70 Km/l,1197 cc
+Toyota,Camry,Sedan5,Hybrid,Hybrid,Automatic, Pune,55.95,25.49,2487 cc
+Toyota,Hilux,Pick,STD 4X4 MT,Diesel,Automatic, Pune,36.19,12.00 Km/l,2755 cc
+Toyota,Land Cruiser,SUV5,ZX Diesel,Diesel,Automatic, Pune,2.37,11.00 Km/l,3346 cc
+Toyota,Vellfire,MPV,Hi,Hybrid,Automatic, Pune,1.46,19.28,2487 cc
+Toyota,Fortuner,SUV7,2.7 4x2 AT,Petrol,Automatic, Pune,42.39,10.00 Km/l,2694 cc
+Toyota,Innova Hycross,SUV7,2.0 G-SLF 7 STR CVT,Petrol,Automatic, Pune,22.86,16.13 Km/l,1987 cc
+Toyota,Camry (2022-2024),Sedan5,Hybrid,Hybrid,Automatic, Pune,55.78,19.1,2487 cc
+Toyota,Innova Crysta (2020-2023),SUV7,2.7 GX 7 STR Petrol,Petrol,Manual, Pune,21.11,16.00 Km/l,2393 cc
+Tata,Altroz,Hatchback5,1.2 XE,Petrol,Manual, Ahmedabad,7.38,25.11 Km/l,1497 cc
+Tata,Curvv EV,SUV5,Creative 45,Electric,Automatic, Ahmedabad,19.63,502.00 Km/full charge,45000 watt
+Tata,Nexon EV,SUV5,Creative Plus MR,Electric,Automatic, Ahmedabad,16.3,325.00 Km/full charge,30000 watt
+Tata,Harrier,SUV5,Pure Plus S Dark Edition AT,Diesel,Automatic, Ahmedabad,22.38,16.80 Km/l,1956 cc
+Tata,Tiago NRG,Hatchback5,1.2 XT,Petrol,Manual, Ahmedabad,7.38,20.00 Km/l,1199 cc
+Tata,Punch,SUV5,Pure(O),Petrol,Manual, Ahmedabad,7.6,20.09 Km/l,1199 cc
+Tata,Punch EV,SUV5,Smart 3.3,Electric,Automatic, Ahmedabad,12.3,315.00 Km/full charge,25000 watt
+Tata,Safari,SUV7,Pure Plus S AT,Diesel,Automatic, Ahmedabad,22.49,16.14 Km/l,1956 cc
+Tata,Nexon,SUV5,1.2 Creative,Petrol,Manual, Ahmedabad,12.25,17.40 Km/l,1199 cc
+Tata,Curvv,SUV5,1.5 Pure Plus,Diesel,Manual, Ahmedabad,14.1,17.40 Km/l,1199 cc
+Tata,Tiago EV (2022-2025),Hatchback5,XE Medium,Electric,Automatic, Ahmedabad,9.07,250.00 Km/full charge,19200 watt
+Tata,Tigor (2020-2025),Sedan5,XM Twin-Cylinder CNG,CNG,Manual, Ahmedabad,8.79,20.03 Km/l,1199 cc
+Tata,Tiago (2020-2025),Hatchback5,XT,Petrol,Manual, Ahmedabad,7.02,19.80 Km/l,1199 cc
+Tata,Tigor EV,Sedan2,XE,Electric,Automatic, Ahmedabad,14.24,315.00 Km/full charge,55000 watt
+Tata,Harrier (2020-2023),SUV5,2.0 XE,Diesel,Manual, Ahmedabad,17.25,16.35 Km/l,1956 cc
+Tata,Nexon EV Max (2022-2023),SUV5,XZ Plus 7.2 KW FC,Electric,Automatic, Ahmedabad,20.4,437.00 Km/full charge,40500 watt
+Tata,Nexon,SUV5,1.2 Smart Plus,Petrol,Manual, Bangalore,10.87,17.40 Km/l,1199 cc
+Tata,Punch,SUV5,Pure(O),Petrol,Manual, Bangalore,8.38,20.09 Km/l,1199 cc
+Tata,Altroz,Hatchback5,1.2 XT,Petrol,Manual, Bangalore,10.03,25.11 Km/l,1497 cc
+Tata,Nexon EV,SUV5,Empowered 45,Electric,Automatic, Bangalore,17.17,325.00 Km/full charge,30000 watt
+Tata,Tiago NRG,Hatchback5,1.2 XT,Petrol,Manual, Bangalore,7.99,20.00 Km/l,1199 cc
+Tata,Tigor EV,Sedan5,XE,Electric,Automatic, Bangalore,13.43,315.00 Km/full charge,55000 watt
+Tata,Harrier,SUV5,Smart,Diesel,Manual, Bangalore,19.01,16.80 Km/l,1956 cc
+Tata,Punch EV,SUV5,Smart Plus 3.3,Electric,Automatic, Bangalore,12.06,315.00 Km/full charge,25000 watt
+Tata,Curvv,SUV5,1.2 Pure Plus,Petrol,Manual, Bangalore,14.07,17.40 Km/l,1199 cc
+Tata,Safari,SUV7,Adventure Plus A AT,Diesel,Automatic, Bangalore,30.76,16.14 Km/l,1956 cc
+Tata,Curvv EV,SUV5,Accomplished 45,Electric,Automatic, Bangalore,19.81,502.00 Km/full charge,45000 watt
+Tata,Tiago,Hatchback5,XE,Petrol,Manual, Bangalore,6.21,19.80 Km/l,1199 cc
+Tata,Tiago EV,Hatchback5,XE MR,Electric,Automatic, Bangalore,8.62,250.00 Km/full charge,19200 watt
+Tata,Tigor,Compact,XM,Petrol,Manual, Bangalore,7.47,20.03 Km/l,1199 cc
+Tata,Tiago,Hatchback5,XZ,Petrol,Manual, Bangalore,8.71,19.80 Km/l,1199 cc
+Tata,Tigor,Compact,XZ CNG,CNG,Manual, Bangalore,10.4,20.03 Km/l,1199 cc
+Tata,Nexon,SUV5,1.5 Smart Plus S,Diesel,Manual, Chennai,12.93,17.40 Km/l,1199 cc
+Tata,Punch,SUV5,Adventure S,Petrol,Manual, Chennai,9.26,20.09 Km/l,1199 cc
+Tata,Altroz,Hatchback5,1.2 XE,Petrol,Manual, Chennai,8.04,25.11 Km/l,1497 cc
+Tata,Nexon EV,SUV5,Creative Plus MR,Electric,Automatic, Chennai,13.44,325.00 Km/full charge,30000 watt
+Tata,Tiago NRG,Hatchback5,1.2 XT Twin-Cylinder CNG,CNG,Manual, Chennai,8.99,20.00 Km/l,1199 cc
+Tata,Harrier,SUV5,Adventure Plus Dark Edition AT,Diesel,Automatic, Chennai,29.07,16.80 Km/l,1956 cc
+Tata,Tigor EV,Sedan5,XE,Electric,Automatic, Chennai,13.22,315.00 Km/full charge,55000 watt
+Tata,Safari,SUV7,Accomplished Plus Dark Edition 6S,Diesel,Manual, Chennai,32.38,16.14 Km/l,1956 cc
+Tata,Punch EV,SUV5,Empowered Plus 3.3,Electric,Automatic, Chennai,13.63,315.00 Km/full charge,25000 watt
+Tata,Tiago,Hatchback5,XE,Petrol,Manual, Chennai,6.06,19.80 Km/l,1199 cc
+Tata,Tiago EV,Hatchback5,XE MR,Electric,Automatic, Chennai,8.49,250.00 Km/full charge,19200 watt
+Tata,Tigor,Compact,XM,Petrol,Manual, Chennai,7.28,20.03 Km/l,1199 cc
+Tata,Curvv EV,SUV5,Accomplished 45,Electric,Automatic, Chennai,19.73,502.00 Km/full charge,45000 watt
+Tata,Curvv,SUV5,1.2 Creative,Petrol,Manual, Chennai,15.44,17.40 Km/l,1199 cc
+Tata,Harrier (2020-2023),SUV5,2.0 XE,Diesel,Manual, Chennai,19.07,16.35 Km/l,1956 cc
+Tata,Nexon EV Max (2022-2023),SUV5,XZ Plus 7.2 KW FC,Electric,Automatic, Chennai,19.34,437.00 Km/full charge,40500 watt
+Tata,Nexon,SUV5,1.2 Smart Plus,Petrol,Manual, Delhi,10.02,17.40 Km/l,1199 cc
+Tata,Curvv EV,SUV5,Accomplished Plus S 45,Electric,Automatic, Delhi,20.37,502.00 Km/full charge,45000 watt
+Tata,Punch,SUV5,Pure CNG,CNG,Manual, Delhi,8.28,20.09 Km/l,1199 cc
+Tata,Altroz,Hatchback5,1.2 XE,Petrol,Manual, Delhi,7.55,25.11 Km/l,1497 cc
+Tata,Nexon EV,SUV5,Creative Plus MR,Electric,Automatic, Delhi,13.3,325.00 Km/full charge,30000 watt
+Tata,Tiago NRG,Hatchback5,1.2 XT,Petrol,Manual, Delhi,7.36,20.00 Km/l,1199 cc
+Tata,Tigor EV,Sedan5,XE,Electric,Automatic, Delhi,13.2,315.00 Km/full charge,55000 watt
+Tata,Harrier,SUV5,Pure (O),Diesel,Manual, Delhi,20.58,16.80 Km/l,1956 cc
+Tata,Punch EV,SUV5,Adventure 3.3,Electric,Automatic, Delhi,12.5,315.00 Km/full charge,25000 watt
+Tata,Safari,SUV7,Pure Plus AT,Diesel,Automatic, Delhi,23.48,16.14 Km/l,1956 cc
+Tata,Curvv,SUV5,1.2 Pure Plus,Petrol,Manual, Delhi,12.95,17.40 Km/l,1199 cc
+Tata,Tiago,Hatchback5,XE,Petrol,Manual, Delhi,5.6,19.80 Km/l,1199 cc
+Tata,Tiago EV,Hatchback5,XE MR,Electric,Automatic, Delhi,8.44,250.00 Km/full charge,19200 watt
+Tata,Tigor,Compact,XM,Petrol,Manual, Delhi,6.66,20.03 Km/l,1199 cc
+Tata,Tiago,Hatchback5,XZ,Petrol,Manual, Delhi,7.96,19.80 Km/l,1199 cc
+Tata,Tigor,Compact,XZ CNG,CNG,Manual, Delhi,9.49,20.03 Km/l,1199 cc
+Tata,Nexon,SUV5,1.2 Smart Plus,Petrol,Manual, Faridabad,10.07,17.40 Km/l,1199 cc
+Tata,Punch,SUV5,Pure(O),Petrol,Manual, Faridabad,7.75,20.09 Km/l,1199 cc
+Tata,Altroz,Hatchback5,1.2 XE,Petrol,Manual, Faridabad,7.57,25.11 Km/l,1497 cc
+Tata,Nexon EV,SUV5,Fearless 45,Electric,Automatic, Faridabad,17.07,325.00 Km/full charge,30000 watt
+Tata,Tiago NRG,Hatchback5,1.2 XT,Petrol,Manual, Faridabad,7.44,20.00 Km/l,1199 cc
+Tata,Tigor EV,Sedan5,XE,Electric,Automatic, Faridabad,14.18,315.00 Km/full charge,55000 watt
+Tata,Harrier,SUV5,Pure (O),Diesel,Manual, Faridabad,19.74,16.80 Km/l,1956 cc
+Tata,Safari,SUV7,Pure Plus AT,Diesel,Automatic, Faridabad,22.54,16.14 Km/l,1956 cc
+Tata,Punch EV,SUV5,Adventure LR 3.3,Electric,Automatic, Faridabad,13.87,315.00 Km/full charge,25000 watt
+Tata,Tiago,Hatchback5,XE,Petrol,Manual, Faridabad,5.61,19.80 Km/l,1199 cc
+Tata,Tiago EV,Hatchback5,XE MR,Electric,Automatic, Faridabad,9.05,250.00 Km/full charge,19200 watt
+Tata,Tigor,Compact,XM,Petrol,Manual, Faridabad,6.69,20.03 Km/l,1199 cc
+Tata,Curvv EV,SUV5,Accomplished Plus S 45,Electric,Automatic, Faridabad,21.87,502.00 Km/full charge,45000 watt
+Tata,Curvv,SUV5,1.2 Pure Plus,Petrol,Manual, Faridabad,12.67,17.40 Km/l,1199 cc
+Tata,Tiago,Hatchback5,XZ,Petrol,Manual, Faridabad,8,19.80 Km/l,1199 cc
+Tata,Tigor,Compact,XZ CNG,CNG,Manual, Faridabad,9.55,,
+Tata,Nexon,SUV5,1.2 Smart Plus S,Petrol,Manual, Ghaziabad,10.4,17.40 Km/l,1199 cc
+Tata,Punch,SUV5,Pure CNG,CNG,Manual, Ghaziabad,8.29,20.09 Km/l,1199 cc
+Tata,Altroz,Hatchback5,1.2 XE,Petrol,Manual, Ghaziabad,7.56,25.11 Km/l,1497 cc
+Tata,Nexon EV,SUV5,Empowered 45,Electric,Automatic, Ghaziabad,18.5,325.00 Km/full charge,30000 watt
+Tata,Tiago NRG,Hatchback5,1.2 XT,Petrol,Manual, Ghaziabad,7.4,20.00 Km/l,1199 cc
+Tata,Harrier,SUV5,Adventure Plus AT,Diesel,Automatic, Ghaziabad,25.88,16.80 Km/l,1956 cc
+Tata,Tigor EV,Sedan5,XE,Electric,Automatic, Ghaziabad,13.07,315.00 Km/full charge,55000 watt
+Tata,Safari,SUV7,Pure Plus AT,Diesel,Automatic, Ghaziabad,22.93,16.14 Km/l,1956 cc
+Tata,Tiago,Hatchback5,XE,Petrol,Manual, Ghaziabad,5.76,19.80 Km/l,1199 cc
+Tata,Punch EV,SUV5,Empowered Plus LR 3.3,Electric,Automatic, Ghaziabad,15.83,315.00 Km/full charge,25000 watt
+Tata,Tiago EV,Hatchback5,XE MR,Electric,Automatic, Ghaziabad,9.04,250.00 Km/full charge,19200 watt
+Tata,Tigor,Compact,XM,Petrol,Manual, Ghaziabad,6.86,20.03 Km/l,1199 cc
+Tata,Curvv EV,SUV5,Accomplished 55,Electric,Automatic, Ghaziabad,22.2,502.00 Km/full charge,45000 watt
+Tata,Curvv,SUV5,1.2 Pure Plus,Petrol,Manual, Ghaziabad,12.89,17.40 Km/l,1199 cc
+Tata,Tiago EV (2022-2025),Hatchback5,XE Medium,Electric,Automatic, Ghaziabad,9.16,250.00 Km/full charge,19200 watt
+Tata,Tigor (2020-2025),Sedan5,XM Twin-Cylinder CNG,CNG,Manual, Ghaziabad,8.75,20.03 Km/l,1199 cc
+Tata,Nexon,SUV5,1.2 Smart Plus,Petrol,Manual, Gurgaon,10.07,17.40 Km/l,1199 cc
+Tata,Curvv EV,SUV5,Accomplished Plus S 45,Electric,Automatic, Gurgaon,21.87,502.00 Km/full charge,45000 watt
+Tata,Punch,SUV5,Pure(O),Petrol,Manual, Gurgaon,7.75,20.09 Km/l,1199 cc
+Tata,Altroz,Hatchback5,1.2 XE,Petrol,Manual, Gurgaon,7.57,25.11 Km/l,1497 cc
+Tata,Nexon EV,SUV5,Fearless 45,Electric,Automatic, Gurgaon,17.07,325.00 Km/full charge,30000 watt
+Tata,Tiago NRG,Hatchback5,1.2 XT,Petrol,Manual, Gurgaon,7.44,20.00 Km/l,1199 cc
+Tata,Tigor EV,Sedan5,XE,Electric,Automatic, Gurgaon,14.18,315.00 Km/full charge,55000 watt
+Tata,Harrier,SUV5,Pure (O),Diesel,Manual, Gurgaon,19.74,16.80 Km/l,1956 cc
+Tata,Punch EV,SUV5,Adventure LR 3.3,Electric,Automatic, Gurgaon,13.87,315.00 Km/full charge,25000 watt
+Tata,Safari,SUV7,Pure Plus AT,Diesel,Automatic, Gurgaon,22.54,16.14 Km/l,1956 cc
+Tata,Curvv,SUV5,1.2 Pure Plus,Petrol,Manual, Gurgaon,12.67,17.40 Km/l,1199 cc
+Tata,Tiago,Hatchback5,XE,Petrol,Manual, Gurgaon,5.61,19.80 Km/l,1199 cc
+Tata,Tiago EV,Hatchback5,XE MR,Electric,Automatic, Gurgaon,9.05,250.00 Km/full charge,19200 watt
+Tata,Tigor,Compact,XM,Petrol,Manual, Gurgaon,6.69,20.03 Km/l,1199 cc
+Tata,Tiago,Hatchback5,XZ,Petrol,Manual, Gurgaon,8,19.80 Km/l,1199 cc
+Tata,Tigor,Compact,XZ CNG,CNG,Manual, Gurgaon,9.55,20.03 Km/l,1199 cc
+Tata,Nexon,SUV5,1.2 Smart Plus,Petrol,Manual, Hyderabad,10.63,17.40 Km/l,1199 cc
+Tata,Punch,SUV5,Adventure Rhythm,Petrol,Manual, Hyderabad,9.08,20.09 Km/l,1199 cc
+Tata,Curvv EV,SUV5,Accomplished Plus S 55,Electric,Automatic, Hyderabad,21.26,502.00 Km/full charge,45000 watt
+Tata,Altroz,Hatchback5,1.2 XM Plus CNG,CNG,Manual, Hyderabad,10.13,25.11 Km/l,1497 cc
+Tata,Nexon EV,SUV5,Empowered Plus 45,Electric,Automatic, Hyderabad,17.93,325.00 Km/full charge,30000 watt
+Tata,Tiago NRG,Hatchback5,1.2 XT,Petrol,Manual, Hyderabad,7.82,20.00 Km/l,1199 cc
+Tata,Tigor EV,Sedan5,XE,Electric,Automatic, Hyderabad,13.24,315.00 Km/full charge,55000 watt
+Tata,Harrier,SUV5,Fearless Plus Dark Edition,Diesel,Manual, Hyderabad,30.51,16.80 Km/l,1956 cc
+Tata,Punch EV,SUV5,Smart 3.3,Electric,Automatic, Hyderabad,10.53,315.00 Km/full charge,25000 watt
+Tata,Curvv,SUV5,1.2 Pure Plus S,Petrol,Manual, Hyderabad,14.59,17.40 Km/l,1199 cc
+Tata,Safari,SUV7,Accomplished Plus AT,Diesel,Automatic, Hyderabad,32.66,16.14 Km/l,1956 cc
+Tata,Tiago EV (2022-2025),Hatchback5,XE Medium,Electric,Automatic, Hyderabad,8.6,,
+Tata,Tigor (2020-2025),Sedan5,XM Twin-Cylinder CNG,CNG,Manual, Hyderabad,9.22,20.03 Km/l,1199 cc
+Tata,Tiago (2020-2025),Hatchback5,XT,Petrol,Manual, Hyderabad,7.37,19.80 Km/l,1199 cc
+Tata,Harrier (2020-2023),SUV5,2.0 XE,Diesel,Manual, Hyderabad,18.91,16.35 Km/l,1956 cc
+Tata,Nexon EV Max (2022-2023),SUV5,XZ Plus 7.2 KW FC,Electric,Automatic, Hyderabad,21.85,437.00 Km/full charge,40500 watt
+Tata,Altroz,Hatchback5,1.2 XE,Petrol,Manual, Jaipur,7.72,25.11 Km/l,1497 cc
+Tata,Harrier,SUV5,Pure Plus S Dark Edition,Diesel,Manual, Jaipur,23.06,16.80 Km/l,1956 cc
+Tata,Curvv,SUV5,1.2 Pure Plus S,Petrol,Manual, Jaipur,13.85,17.40 Km/l,1199 cc
+Tata,Curvv EV,SUV5,Creative 45,Electric,Automatic, Jaipur,18.6,502.00 Km/full charge,45000 watt
+Tata,Nexon,SUV5,1.2 Smart Plus,Petrol,Manual, Jaipur,10.31,17.40 Km/l,1199 cc
+Tata,Nexon EV,SUV5,Fearless 45,Electric,Automatic, Jaipur,16.04,325.00 Km/full charge,30000 watt
+Tata,Punch,SUV5,Pure,Petrol,Manual, Jaipur,7.23,20.09 Km/l,1199 cc
+Tata,Punch EV,SUV5,Smart 3.3,Electric,Automatic, Jaipur,10.57,315.00 Km/full charge,25000 watt
+Tata,Safari,SUV7,Smart,Diesel,Manual, Jaipur,18.67,16.14 Km/l,1956 cc
+Tata,Tiago NRG,Hatchback5,1.2 XT,Petrol,Manual, Jaipur,7.45,20.00 Km/l,1199 cc
+Tata,Tigor EV,Sedan5,XE,Electric,Automatic, Jaipur,12.95,315.00 Km/full charge,55000 watt
+Tata,Harrier (2020-2023),SUV5,2.0 XE,Diesel,Manual, Jaipur,18.41,16.35 Km/l,1956 cc
+Tata,Nexon EV Max (2022-2023),SUV5,XZ Plus 7.2 KW FC,Electric,Automatic, Jaipur,19.4,437.00 Km/full charge,40500 watt
+Tata,Nexon (2020-2023),SUV5,1.5 XZ Plus (S) Diesel,Diesel,Manual, Jaipur,14.79,17.40 Km/l,1199 cc
+Tata,Harrier (2023-2023),SUV5,2.0 XMS,Diesel,Manual, Jaipur,21.9,16.35 Km/l,1956 cc
+Tata,Nexon EV Prime (2020-2023),SUV5,XM,Electric,Automatic, Jaipur,15.66,312.00 Km/full charge,30200 watt
+Tata,Nexon,SUV5,1.2 Smart Plus,Petrol,Manual, Mumbai,10.37,17.40 Km/l,1199 cc
+Tata,Punch,SUV5,Pure,Petrol,Manual, Mumbai,7.29,20.09 Km/l,1199 cc
+Tata,Altroz,Hatchback5,1.2 XE,Petrol,Manual, Mumbai,7.8,25.11 Km/l,1497 cc
+Tata,Nexon EV,SUV5,Creative Plus MR,Electric,Automatic, Mumbai,13.31,325.00 Km/full charge,30000 watt
+Tata,Tiago NRG,Hatchback5,1.2 XT,Petrol,Manual, Mumbai,7.73,20.00 Km/l,1199 cc
+Tata,Tigor EV,Sedan5,XE,Electric,Automatic, Mumbai,13.24,315.00 Km/full charge,55000 watt
+Tata,Harrier,SUV5,Smart (O),Diesel,Manual, Mumbai,19.11,16.80 Km/l,1956 cc
+Tata,Punch EV,SUV5,Smart 3.3,Electric,Automatic, Mumbai,10.46,315.00 Km/full charge,25000 watt
+Tata,Curvv EV,SUV5,Creative 45,Electric,Automatic, Mumbai,18.51,502.00 Km/full charge,45000 watt
+Tata,Curvv,SUV5,1.2 Pure Plus S,Petrol,Manual, Mumbai,13.99,17.40 Km/l,1199 cc
+Tata,Safari,SUV7,Pure Plus S,Diesel,Manual, Mumbai,23.25,16.14 Km/l,1956 cc
+Tata,Tiago,Hatchback5,XE,Petrol,Manual, Mumbai,5.96,19.80 Km/l,1199 cc
+Tata,Tiago EV,Hatchback5,XE MR,Electric,Automatic, Mumbai,8.46,250.00 Km/full charge,19200 watt
+Tata,Tigor,Compact,XM,Petrol,Manual, Mumbai,7.1,20.03 Km/l,1199 cc
+Tata,Tiago,Hatchback5,XZ,Petrol,Manual, Mumbai,8.12,19.80 Km/l,1199 cc
+Tata,Tigor,Compact,XZ CNG,CNG,Manual, Mumbai,9.39,20.03 Km/l,1199 cc
+Tata,Nexon,SUV5,1.2 Smart Plus S,Petrol,Manual, Noida,10.4,17.40 Km/l,1199 cc
+Tata,Punch,SUV5,Pure CNG,CNG,Manual, Noida,8.29,20.09 Km/l,1199 cc
+Tata,Altroz,Hatchback5,1.2 XE,Petrol,Manual, Noida,7.56,25.11 Km/l,1497 cc
+Tata,Nexon EV,SUV5,Empowered 45,Electric,Automatic, Noida,18.5,325.00 Km/full charge,30000 watt
+Tata,Tiago NRG,Hatchback5,1.2 XT,Petrol,Manual, Noida,7.4,20.00 Km/l,1199 cc
+Tata,Harrier,SUV5,Adventure Plus AT,Diesel,Automatic, Noida,25.88,16.80 Km/l,1956 cc
+Tata,Tigor EV,Sedan5,XE,Electric,Automatic, Noida,13.07,315.00 Km/full charge,55000 watt
+Tata,Safari,SUV7,Pure Plus AT,Diesel,Automatic, Noida,22.93,16.14 Km/l,1956 cc
+Tata,Tiago,Hatchback5,XE,Petrol,Manual, Noida,5.76,19.80 Km/l,1199 cc
+Tata,Punch EV,SUV5,Empowered Plus LR 3.3,Electric,Automatic, Noida,15.83,315.00 Km/full charge,25000 watt
+Tata,Tiago EV,Hatchback5,XE MR,Electric,Automatic, Noida,9.04,250.00 Km/full charge,19200 watt
+Tata,Tigor,Compact,XM,Petrol,Manual, Noida,6.86,20.03 Km/l,1199 cc
+Tata,Curvv EV,SUV5,Accomplished 55,Electric,Automatic, Noida,22.2,502.00 Km/full charge,45000 watt
+Tata,Curvv,SUV5,1.2 Pure Plus,Petrol,Manual, Noida,12.89,17.40 Km/l,1199 cc
+Tata,Tiago EV (2022-2025),Hatchback5,XE Medium,Electric,Automatic, Noida,9.16,250.00 Km/full charge,19200 watt
+Tata,Tigor (2020-2025),Sedan5,XM Twin-Cylinder CNG,CNG,Manual, Noida,8.75,20.03 Km/l,1199 cc
+Tata,Nexon,SUV5,1.2 Smart Plus,Petrol,Manual, Pune,10.5,17.40 Km/l,1199 cc
+Tata,Curvv EV,SUV5,Creative 45,Electric,Automatic, Pune,18.77,502.00 Km/full charge,45000 watt
+Tata,Altroz,Hatchback5,1.2 XE,Petrol,Manual, Pune,8.05,25.11 Km/l,1497 cc
+Tata,Nexon EV,SUV5,Empowered MR,Electric,Automatic, Pune,16.05,325.00 Km/full charge,30000 watt
+Tata,Tiago NRG,Hatchback5,1.2 XT,Petrol,Manual, Pune,7.71,20.00 Km/l,1199 cc
+Tata,Tigor EV,Sedan5,XE,Electric,Automatic, Pune,13.51,315.00 Km/full charge,55000 watt
+Tata,Harrier,SUV5,Pure,Diesel,Manual, Pune,20.55,16.80 Km/l,1956 cc
+Tata,Punch EV,SUV5,Smart 3.3,Electric,Automatic, Pune,10.75,315.00 Km/full charge,25000 watt
+Tata,Safari,SUV7,Pure Plus,Diesel,Manual, Pune,23.28,16.14 Km/l,1956 cc
+Tata,Curvv,SUV5,1.2 Pure Plus,Petrol,Manual, Pune,13.36,17.40 Km/l,1199 cc
+Tata,Tiago,Hatchback5,XE,Petrol,Manual, Pune,6.08,19.80 Km/l,1199 cc
+Tata,Tiago EV,Hatchback5,XE MR,Electric,Automatic, Pune,8.54,250.00 Km/full charge,19200 watt
+Tata,Tigor,Compact,XM,Petrol,Manual, Pune,7.19,20.03 Km/l,1199 cc
+Tata,Punch,SUV5,Pure,Petrol,Manual, Pune,7.39,20.09 Km/l,1199 cc
+Tata,Tiago,Hatchback5,XZ,Petrol,Manual, Pune,8.34,19.80 Km/l,1199 cc
+Tata,Tigor,Compact,XZ CNG,CNG,Manual, Pune,9.67,20.03 Km/l,1199 cc
+Mahindra,XUV700,SUV5,2.0 AX5 AT 7 STR Select,Petrol,Automatic, Ahmedabad,21.19,12.00 Km/l,1997 cc
+Mahindra,Scorpio-N,SUV6,2.2 Z4 Diesel (E),Diesel,Manual, Ahmedabad,18.83,12.17 Km/l,1997 cc
+Mahindra,XUV400,SUV5,EL Pro 34.5 kWh,Electric,Automatic, Ahmedabad,19.03,375.00 Km/full charge,34500 watt
+Mahindra,Thar,SUV4,1.5 LX Hard Top Diesel,Diesel,Manual, Ahmedabad,14.66,10.00 Km/l,1497 cc
+Mahindra,Thar Roxx,SUV5,2.2 AX5L AT 4WD Diesel,Diesel,Automatic, Ahmedabad,24.01,12.00 Km/l,1997 cc
+Mahindra,XUV 3XO,SUV5,1.2 MX3,Petrol,Manual, Ahmedabad,10.77,21.20 Km/l,1497 cc
+Mahindra,Marazzo,MPV,M2,Diesel,Manual, Ahmedabad,16.63,17.33 Km/l,1497 cc
+Mahindra,Bolero,SUV7,B4,Diesel,Manual, Ahmedabad,11.11,16.70 Km/l,1493 cc
+Mahindra,Bolero Neo,SUV7,1.5 N4,Diesel,Manual, Ahmedabad,11.28,17.29 Km/l,1493 cc
+Mahindra,Scorpio Classic,SUV7,2.2 S11 7SF/7CC,Diesel,Manual, Ahmedabad,19.98,14.44 Km/l,2184 cc
+Mahindra,Bolero Neo Plus,SUV9,P4,Diesel,Manual, Ahmedabad,12.7,14.00 Km/l,2184 cc
+Mahindra,XUV300,SUV2,1.2 W8,Petrol,Manual, Ahmedabad,12.64,17.00 Km/l,1197 cc
+Mahindra,Marazzo,MPV,M2,Diesel,Manual, Bangalore,18.21,17.33 Km/l,1497 cc
+Mahindra,Scorpio-N,SUV7,2.0 Z2 Petrol,Petrol,Manual, Bangalore,17.65,12.17 Km/l,1997 cc
+Mahindra,Bolero,SUV7,B4,Diesel,Manual, Bangalore,11.87,16.70 Km/l,1493 cc
+Mahindra,Scorpio Classic,SUV7,2.2 S 7STR,Diesel,Manual, Bangalore,17.19,14.44 Km/l,2184 cc
+Mahindra,XUV400,SUV5,EL Pro 39.4 kWh,Electric,Automatic, Bangalore,18.6,375.00 Km/full charge,34500 watt
+Mahindra,XUV700,SUV7,2.0 MX (E),Petrol,Manual, Bangalore,18.26,12.00 Km/l,1997 cc
+Mahindra,XUV 3XO,SUV5,1.5 MX3 AMT,Diesel,Automatic, Bangalore,14.84,21.20 Km/l,1497 cc
+Mahindra,Thar Roxx,SUV5,2.0 MX1,Petrol,Manual, Bangalore,16.39,12.00 Km/l,1997 cc
+Mahindra,Thar,SUV4,2.2 LX AWD Convertible Top Diesel,Diesel,Manual, Bangalore,20,10.00 Km/l,1497 cc
+Mahindra,Bolero Neo,SUV7,1.5 N4,Diesel,Manual, Bangalore,12.05,17.29 Km/l,1493 cc
+Mahindra,Bolero Neo Plus,SUV9,P4,Diesel,Manual, Bangalore,14.67,14.00 Km/l,2184 cc
+Mahindra,XUV300,SUV2,1.2 W8,Petrol,Manual, Bangalore,14.4,17.00 Km/l,1197 cc
+Mahindra,XUV700,SUV7,2.0 AX3,Petrol,Manual, Chennai,20.75,12.00 Km/l,1997 cc
+Mahindra,Marazzo,MPV,M2,Diesel,Manual, Chennai,18.34,17.33 Km/l,1497 cc
+Mahindra,Scorpio-N,SUV7,2.0 Z2 Petrol,Petrol,Manual, Chennai,17.78,12.17 Km/l,1997 cc
+Mahindra,Bolero,SUV7,B4,Diesel,Manual, Chennai,11.81,16.70 Km/l,1493 cc
+Mahindra,Scorpio Classic,SUV7,2.2 S 7STR,Diesel,Manual, Chennai,17.3,14.44 Km/l,2184 cc
+Mahindra,XUV400,SUV5,EC Pro 34.5 kWh,Electric,Automatic, Chennai,16.81,375.00 Km/full charge,34500 watt
+Mahindra,Thar,SUV4,1.5 AX(O) Hard Top Diesel,Diesel,Manual, Chennai,14.68,10.00 Km/l,1497 cc
+Mahindra,XUV 3XO,SUV5,1.2 AX7 TGDi,Petrol,Manual, Chennai,15.81,21.20 Km/l,1497 cc
+Mahindra,Bolero Neo,SUV7,1.5 N4,Diesel,Manual, Chennai,11.98,17.29 Km/l,1493 cc
+Mahindra,Thar Roxx,SUV5,2.0 MX1,Petrol,Manual, Chennai,16.53,12.00 Km/l,1997 cc
+Mahindra,Bolero Neo Plus,SUV9,P4,Diesel,Manual, Chennai,14.58,14.00 Km/l,2184 cc
+Mahindra,XUV300,SUV2,1.2 W8,Petrol,Manual, Chennai,14.23,17.00 Km/l,1197 cc
+Mahindra,Marazzo,MPV,M2,Diesel,Manual, Delhi,17.67,17.33 Km/l,1497 cc
+Mahindra,Scorpio-N,SUV7,2.0 Z4 AT Petrol,Petrol,Automatic, Delhi,20.61,12.17 Km/l,1997 cc
+Mahindra,XUV700,SUV7,2.2 MX Diesel,Diesel,Manual, Delhi,18.3,12.00 Km/l,1997 cc
+Mahindra,Scorpio Classic,SUV7,2.2 S11 7SF/7CC,Diesel,Manual, Delhi,21.33,14.44 Km/l,2184 cc
+Mahindra,XUV400,SUV5,EL Pro 39.4 kWh,Electric,Automatic, Delhi,20.7,375.00 Km/full charge,34500 watt
+Mahindra,XUV 3XO,SUV5,1.5 MX2,Diesel,Manual, Delhi,11.88,21.20 Km/l,1497 cc
+Mahindra,Bolero,SUV7,B4,Diesel,Manual, Delhi,11.63,16.70 Km/l,1493 cc
+Mahindra,Thar,SUV4,1.5 AX(O) Hard Top Diesel,Diesel,Manual, Delhi,14.41,10.00 Km/l,1497 cc
+Mahindra,Bolero Neo,SUV7,1.5 N4,Diesel,Manual, Delhi,11.91,17.29 Km/l,1493 cc
+Mahindra,Thar Roxx,SUV5,2.0 MX1,Petrol,Manual, Delhi,16.27,12.00 Km/l,1997 cc
+Mahindra,Bolero Neo Plus,SUV9,P4,Diesel,Manual, Delhi,13.9,14.00 Km/l,2184 cc
+Mahindra,XUV300,SUV2,1.2 W8,Petrol,Manual, Delhi,13.19,17.00 Km/l,1197 cc
+Mahindra,Thar,SUV4,1.5 AX(O) Hard Top Diesel,Diesel,Manual, Faridabad,13.84,10.00 Km/l,1497 cc
+Mahindra,Scorpio Classic,SUV7,2.2 S11 7SF/7CC,Diesel,Manual, Faridabad,20.49,14.44 Km/l,2184 cc
+Mahindra,Marazzo,MPV,M2,Diesel,Manual, Faridabad,17.15,17.33 Km/l,1497 cc
+Mahindra,XUV400,SUV5,EL Pro 34.5 kWh,Electric,Automatic, Faridabad,18.3,375.00 Km/full charge,34500 watt
+Mahindra,XUV700,SUV7,2.0 AX5 AT 7 STR Select,Petrol,Automatic, Faridabad,22.02,12.00 Km/l,1997 cc
+Mahindra,Scorpio-N,SUV7,2.2 Z4 Diesel,Diesel,Manual, Faridabad,19.13,12.17 Km/l,1997 cc
+Mahindra,XUV 3XO,SUV5,1.2 MX3,Petrol,Manual, Faridabad,11.56,21.20 Km/l,1497 cc
+Mahindra,Bolero Neo,SUV7,1.5 N4,Diesel,Manual, Faridabad,11.67,17.29 Km/l,1493 cc
+Mahindra,Thar Roxx,SUV5,2.0 MX1,Petrol,Manual, Faridabad,15.81,12.00 Km/l,1997 cc
+Mahindra,Bolero,SUV7,B4,Diesel,Manual, Faridabad,11.45,16.70 Km/l,1493 cc
+Mahindra,Bolero Neo Plus,SUV9,P4,Diesel,Manual, Faridabad,13.49,14.00 Km/l,2184 cc
+Mahindra,XUV300,SUV2,1.2 W8,Petrol,Manual, Faridabad,11.33,17.00 Km/l,1197 cc
+Mahindra,Thar,SUV4,1.5 AX(O) Hard Top Diesel,Diesel,Manual, Ghaziabad,13.84,10.00 Km/l,1497 cc
+Mahindra,Scorpio Classic,SUV7,2.2 S 7STR,Diesel,Manual, Ghaziabad,16.64,14.44 Km/l,2184 cc
+Mahindra,Marazzo,MPV,M2,Diesel,Manual, Ghaziabad,17.36,17.33 Km/l,1497 cc
+Mahindra,XUV400,SUV5,EL Pro 34.5 kWh,Electric,Automatic, Ghaziabad,19.66,375.00 Km/full charge,34500 watt
+Mahindra,XUV700,SUV7,2.0 MX,Petrol,Manual, Ghaziabad,17.28,12.00 Km/l,1997 cc
+Mahindra,Scorpio-N,SUV7,2.0 Z2 Petrol,Petrol,Manual, Ghaziabad,16.95,12.17 Km/l,1997 cc
+Mahindra,XUV 3XO,SUV5,1.5 MX3,Diesel,Manual, Ghaziabad,13.07,21.20 Km/l,1497 cc
+Mahindra,Bolero Neo,SUV7,1.5 N4,Diesel,Manual, Ghaziabad,11.88,17.29 Km/l,1493 cc
+Mahindra,Thar Roxx,SUV5,2.0 MX1,Petrol,Manual, Ghaziabad,16.32,12.00 Km/l,1997 cc
+Mahindra,Bolero,SUV7,B4,Diesel,Manual, Ghaziabad,11.42,16.70 Km/l,1493 cc
+Mahindra,Bolero Neo Plus,SUV9,P4,Diesel,Manual, Ghaziabad,13.66,14.00 Km/l,2184 cc
+Mahindra,XUV300,SUV2,1.2 W8,Petrol,Manual, Ghaziabad,11.31,17.00 Km/l,1197 cc
+Mahindra,Bolero Neo,SUV7,1.5 N4,Diesel,Manual, Gurgaon,11.67,17.29 Km/l,1493 cc
+Mahindra,XUV700,SUV7,2.0 AX5 AT 7 STR Select,Petrol,Automatic, Gurgaon,22.02,12.00 Km/l,1997 cc
+Mahindra,XUV 3XO,SUV5,1.2 MX3,Petrol,Manual, Gurgaon,11.56,21.20 Km/l,1497 cc
+Mahindra,Scorpio-N,SUV7,2.2 Z4 Diesel,Diesel,Manual, Gurgaon,19.13,12.17 Km/l,1997 cc
+Mahindra,Scorpio Classic,SUV7,2.2 S11 7SF/7CC,Diesel,Manual, Gurgaon,20.49,14.44 Km/l,2184 cc
+Mahindra,XUV400,SUV5,EL Pro 34.5 kWh,Electric,Automatic, Gurgaon,18.3,375.00 Km/full charge,34500 watt
+Mahindra,Marazzo,MPV,M2,Diesel,Manual, Gurgaon,17.15,17.33 Km/l,1497 cc
+Mahindra,Thar,SUV4,1.5 AX(O) Hard Top Diesel,Diesel,Manual, Gurgaon,13.84,10.00 Km/l,1497 cc
+Mahindra,Thar Roxx,SUV5,2.0 MX1,Petrol,Manual, Gurgaon,15.81,12.00 Km/l,1997 cc
+Mahindra,Bolero,SUV7,B4,Diesel,Manual, Gurgaon,11.45,16.70 Km/l,1493 cc
+Mahindra,Bolero Neo Plus,SUV9,P4,Diesel,Manual, Gurgaon,13.49,14.00 Km/l,2184 cc
+Mahindra,XUV300,SUV2,1.2 W8,Petrol,Manual, Gurgaon,11.33,17.00 Km/l,1197 cc
+Mahindra,Marazzo,MPV,M2,Diesel,Manual, Hyderabad,18.17,17.33 Km/l,1497 cc
+Mahindra,Bolero,SUV7,B4,Diesel,Manual, Hyderabad,11.89,16.70 Km/l,1493 cc
+Mahindra,Scorpio-N,SUV7,2.2 Z2 Diesel,Diesel,Manual, Hyderabad,18.12,12.17 Km/l,1997 cc
+Mahindra,XUV700,SUV7,2.2 AX5 Diesel,Diesel,Manual, Hyderabad,22.9,12.00 Km/l,1997 cc
+Mahindra,Scorpio Classic,SUV7,2.2 S 7STR,Diesel,Manual, Hyderabad,17.16,14.44 Km/l,2184 cc
+Mahindra,XUV400,SUV5,EL Pro 34.5 kWh,Electric,Automatic, Hyderabad,18.11,375.00 Km/full charge,34500 watt
+Mahindra,XUV 3XO,SUV5,1.5 MX3,Diesel,Manual, Hyderabad,13.74,21.20 Km/l,1497 cc
+Mahindra,Thar,SUV4,2.0 LX AWD Convertible Top AT,Petrol,Automatic, Hyderabad,20.88,10.00 Km/l,1497 cc
+Mahindra,Bolero Neo,SUV7,1.5 N4,Diesel,Manual, Hyderabad,12.07,17.29 Km/l,1493 cc
+Mahindra,Thar Roxx,SUV5,2.0 MX1,Petrol,Manual, Hyderabad,16.38,12.00 Km/l,1997 cc
+Mahindra,Bolero Neo Plus,SUV9,P4,Diesel,Manual, Hyderabad,14.77,14.00 Km/l,2184 cc
+Mahindra,XUV300,SUV2,1.2 W8,Petrol,Manual, Hyderabad,13.63,17.00 Km/l,1197 cc
+Mahindra,XUV700,SUV5,2.0 AX5 AT 7 STR Select,Petrol,Automatic, Jaipur,22.19,12.00 Km/l,1997 cc
+Mahindra,Scorpio-N,SUV6,2.2 Z4 Diesel (E),Diesel,Manual, Jaipur,20.09,12.17 Km/l,1997 cc
+Mahindra,XUV400,SUV5,EL Pro 34.5 kWh,Electric,Automatic, Jaipur,18.14,375.00 Km/full charge,34500 watt
+Mahindra,Thar,SUV4,1.5 LX Hard Top Diesel,Diesel,Manual, Jaipur,15.69,10.00 Km/l,1497 cc
+Mahindra,Thar Roxx,SUV5,2.2 AX5L AT 4WD Diesel,Diesel,Automatic, Jaipur,25.62,12.00 Km/l,1997 cc
+Mahindra,XUV 3XO,SUV5,1.2 MX3,Petrol,Manual, Jaipur,11.48,21.20 Km/l,1497 cc
+Mahindra,Marazzo,MPV,M2,Diesel,Manual, Jaipur,17.79,17.33 Km/l,1497 cc
+Mahindra,Bolero,SUV7,B4,Diesel,Manual, Jaipur,11.92,16.70 Km/l,1493 cc
+Mahindra,Bolero Neo,SUV7,1.5 N4,Diesel,Manual, Jaipur,12.1,17.29 Km/l,1493 cc
+Mahindra,Scorpio Classic,SUV7,2.2 S11 7SF/7CC,Diesel,Manual, Jaipur,21.32,14.44 Km/l,2184 cc
+Mahindra,Bolero Neo Plus,SUV9,P4,Diesel,Manual, Jaipur,13.64,14.00 Km/l,2184 cc
+Mahindra,XUV300,SUV2,1.2 W8,Petrol,Manual, Jaipur,13.12,17.00 Km/l,1197 cc
+Mahindra,Marazzo,MPV,M2,Diesel,Manual, Mumbai,17.74,17.33 Km/l,1497 cc
+Mahindra,XUV700,SUV7,2.0 AX5 7 STR Select,Petrol,Manual, Mumbai,20.36,12.00 Km/l,1997 cc
+Mahindra,Scorpio-N,SUV7,2.2 Z2 Diesel,Diesel,Manual, Mumbai,17.69,12.17 Km/l,1997 cc
+Mahindra,Bolero,SUV7,B4,Diesel,Manual, Mumbai,11.78,16.70 Km/l,1493 cc
+Mahindra,Scorpio Classic,SUV7,2.2 S 7STR,Diesel,Manual, Mumbai,16.76,14.44 Km/l,2184 cc
+Mahindra,XUV400,SUV5,EL Pro 39.4 kWh,Electric,Automatic, Mumbai,18.93,375.00 Km/full charge,34500 watt
+Mahindra,XUV 3XO,SUV5,1.5 MX3 Pro,Diesel,Manual, Mumbai,13.9,21.20 Km/l,1497 cc
+Mahindra,Thar Roxx,SUV5,2.0 MX1,Petrol,Manual, Mumbai,15.75,12.00 Km/l,1997 cc
+Mahindra,Bolero Neo,SUV7,1.5 N4,Diesel,Manual, Mumbai,11.96,17.29 Km/l,1493 cc
+Mahindra,Thar,SUV4,1.5 LX Hard Top Diesel,Diesel,Manual, Mumbai,15.82,10.00 Km/l,1497 cc
+Mahindra,Bolero Neo Plus,SUV9,P4,Diesel,Manual, Mumbai,14.36,14.00 Km/l,2184 cc
+Mahindra,XUV300,SUV2,1.2 W8,Petrol,Manual, Mumbai,13.62,17.00 Km/l,1197 cc
+Mahindra,Thar,SUV4,1.5 AX(O) Hard Top Diesel,Diesel,Manual, Noida,13.84,10.00 Km/l,1497 cc
+Mahindra,Scorpio Classic,SUV7,2.2 S 7STR,Diesel,Manual, Noida,16.64,14.44 Km/l,2184 cc
+Mahindra,Marazzo,MPV,M2,Diesel,Manual, Noida,17.36,17.33 Km/l,1497 cc
+Mahindra,XUV400,SUV5,EL Pro 34.5 kWh,Electric,Automatic, Noida,19.66,375.00 Km/full charge,34500 watt
+Mahindra,XUV700,SUV7,2.0 MX,Petrol,Manual, Noida,17.28,12.00 Km/l,1997 cc
+Mahindra,Scorpio-N,SUV7,2.0 Z2 Petrol,Petrol,Manual, Noida,16.95,12.17 Km/l,1997 cc
+Mahindra,XUV 3XO,SUV5,1.5 MX3,Diesel,Manual, Noida,13.07,21.20 Km/l,1497 cc
+Mahindra,Bolero Neo,SUV7,1.5 N4,Diesel,Manual, Noida,11.88,17.29 Km/l,1493 cc
+Mahindra,Thar Roxx,SUV5,2.0 MX1,Petrol,Manual, Noida,16.32,12.00 Km/l,1997 cc
+Mahindra,Bolero,SUV7,B4,Diesel,Manual, Noida,11.42,16.70 Km/l,1493 cc
+Mahindra,Bolero Neo Plus,SUV9,P4,Diesel,Manual, Noida,13.66,14.00 Km/l,2184 cc
+Mahindra,XUV300,SUV2,1.2 W8,Petrol,Manual, Noida,11.31,17.00 Km/l,1197 cc
+Mahindra,XUV700,SUV5,2.0 AX5 AT 7 STR Select,Petrol,Automatic, Pune,22.52,12.00 Km/l,1997 cc
+Mahindra,Scorpio-N,SUV6,2.2 Z4 Diesel (E),Diesel,Manual, Pune,20.41,12.17 Km/l,1997 cc
+Mahindra,XUV400,SUV5,EL Pro 34.5 kWh,Electric,Automatic, Pune,17.52,375.00 Km/full charge,34500 watt
+Mahindra,Thar,SUV4,1.5 LX Hard Top Diesel,Diesel,Manual, Pune,16.11,10.00 Km/l,1497 cc
+Mahindra,Thar Roxx,SUV5,2.2 AX5L AT 4WD Diesel,Diesel,Automatic, Pune,25.9,12.00 Km/l,1997 cc
+Mahindra,XUV 3XO,SUV5,1.2 MX3,Petrol,Manual, Pune,11.66,21.20 Km/l,1497 cc
+Mahindra,Marazzo,MPV,M2,Diesel,Manual, Pune,17.99,17.33 Km/l,1497 cc
+Mahindra,Bolero,SUV7,B4,Diesel,Manual, Pune,11.98,16.70 Km/l,1493 cc
+Mahindra,Bolero Neo,SUV7,1.5 N4,Diesel,Manual, Pune,12.14,17.29 Km/l,1493 cc
+Mahindra,Scorpio Classic,SUV7,2.2 S11 7SF/7CC,Diesel,Manual, Pune,21.45,14.44 Km/l,2184 cc
+Mahindra,Bolero Neo Plus,SUV9,P4,Diesel,Manual, Pune,13.96,14.00 Km/l,2184 cc
+Mahindra,XUV300,SUV2,1.2 W8,Petrol,Manual, Pune,13.71,17.00 Km/l,1197 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Sportz,Petrol,Manual, Ahmedabad,8.48,18.00 Km/l,1197 cc
+Hyundai,i20 N Line,Hatchback5,N6,Petrol,Manual, Ahmedabad,11.27,20.25 Km/l,998 cc
+Hyundai,Venue,SUV5,1.2 S(O),Petrol,Manual, Ahmedabad,11.2,17.52 Km/l,1197 cc
+Hyundai,Tucson,SUV5,2.0 Platinum AT Petrol,Petrol,Automatic, Ahmedabad,33.15,12.50 Km/l,1999 cc
+Hyundai,Creta N Line,SUV5,N8,Petrol,Manual, Ahmedabad,19.09,18.00 Km/l,1482 cc
+Hyundai,Aura,Sedan5,1.2 SX CNG,CNG,Manual, Ahmedabad,10.37,21.00 Km/l,1197 cc
+Hyundai,Verna,Sedan5,1.5 SX(O) Turbo,Petrol,Manual, Ahmedabad,18.23,25.00 Km/l,1497 cc
+Hyundai,Venue N-Line,SUV5,N6,Petrol,Manual, Ahmedabad,13.8,20.00 Km/l,998 cc
+Hyundai,Exter,SUV5,1.2 SX(O) Connect,Petrol,Manual, Ahmedabad,10.93,19.40 Km/l,1197 cc
+Hyundai,i20,Hatchback5,1.2 Sportz(O),Petrol,Manual, Ahmedabad,9.97,20.35 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 SX(O) Knight,Petrol,Manual, Ahmedabad,19.75,17.40 Km/l,1497 cc
+Hyundai,Creta Electric,SUV5,Executive,Electric,Automatic, Ahmedabad,20.41,390.00 Km/full charge,42000 watt
+Hyundai,Alcazar,SUV7,Executive,Petrol,Manual, Ahmedabad,16.95,18.00 Km/l,1482 cc
+Hyundai,IONIQ 5,SUV5,RWD,Electric,Automatic, Ahmedabad,52.07,631.00 Km/full charge,72600 watt
+Hyundai,Creta (2023-2024),SUV5,1.5 SX Executive Diesel,Diesel,Manual, Ahmedabad,17.58,17.00 Km/l,1497 cc
+Hyundai,Alcazar (2021-2023),SUV6,1.5 Platinum 7 STR Diesel,Diesel,Manual, Ahmedabad,21.79,14.50 Km/l,1999 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Era,Petrol,Manual, Bangalore,7.43,18.00 Km/l,1197 cc
+Hyundai,Aura,Sedan5,1.2 E CNG,CNG,Manual, Bangalore,9.33,21.00 Km/l,1197 cc
+Hyundai,Venue,SUV5,1.2 E Plus,Petrol,Manual, Bangalore,10.24,17.52 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 EX,Petrol,Manual, Bangalore,15.58,17.40 Km/l,1497 cc
+Hyundai,i20 N Line,Hatchback5,N6 DCT,Petrol,Automatic, Bangalore,14.11,20.25 Km/l,998 cc
+Hyundai,Venue N-Line,SUV5,N8 DCT,Petrol,Automatic, Bangalore,17.56,20.00 Km/l,998 cc
+Hyundai,Tucson,SUV5,2.0 Platinum AT Petrol,Petrol,Automatic, Bangalore,37.24,12.50 Km/l,1999 cc
+Hyundai,Exter,SUV5,1.2 S(O) Plus,Petrol,Manual, Bangalore,9.78,19.40 Km/l,1197 cc
+Hyundai,Verna,Sedan5,1.5 SX IVT,Petrol,Automatic, Bangalore,18.19,25.00 Km/l,1497 cc
+Hyundai,Creta N Line,SUV5,N8 DCT,Petrol,Automatic, Bangalore,23.2,18.00 Km/l,1482 cc
+Hyundai,i20,Hatchback5,1.2 Magna,Petrol,Manual, Bangalore,9.6,20.35 Km/l,1197 cc
+Hyundai,Alcazar,SUV7,Signature DCT,Petrol,Automatic, Bangalore,27.08,18.00 Km/l,1482 cc
+Hyundai,Creta Electric,SUV5,Executive,Electric,Automatic, Bangalore,19.43,390.00 Km/full charge,42000 watt
+Hyundai,IONIQ 5,SUV5,RWD,Electric,Automatic, Bangalore,50.23,631.00 Km/full charge,72600 watt
+Hyundai,Creta (2023-2024),SUV5,1.5 SX Executive Diesel,Diesel,Manual, Bangalore,19.5,17.00 Km/l,1497 cc
+Hyundai,Alcazar (2021-2023),SUV6,1.5 Platinum 7 STR Diesel,Diesel,Manual, Bangalore,24.26,14.50 Km/l,1999 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Era,Petrol,Manual, Chennai,7.23,18.00 Km/l,1197 cc
+Hyundai,Aura,Sedan5,1.2 E CNG,CNG,Manual, Chennai,9.07,21.00 Km/l,1197 cc
+Hyundai,Venue,SUV5,1.2 E,Petrol,Manual, Chennai,9.52,17.52 Km/l,1197 cc
+Hyundai,Venue N-Line,SUV5,N8 DCT,Petrol,Automatic, Chennai,17.34,20.00 Km/l,998 cc
+Hyundai,i20 N Line,Hatchback5,N6 DCT,Petrol,Automatic, Chennai,13.94,20.25 Km/l,998 cc
+Hyundai,Creta,SUV5,1.5 E,Petrol,Manual, Chennai,13.89,17.40 Km/l,1497 cc
+Hyundai,Tucson,SUV5,2.0 Platinum AT Petrol,Petrol,Automatic, Chennai,37.05,12.50 Km/l,1999 cc
+Hyundai,Exter,SUV5,1.2 EX,Petrol,Manual, Chennai,7.49,19.40 Km/l,1197 cc
+Hyundai,Verna,Sedan5,1.5 S,Petrol,Manual, Chennai,15.45,25.00 Km/l,1497 cc
+Hyundai,i20,Hatchback5,1.2 Sportz,Petrol,Manual, Chennai,10.08,20.35 Km/l,1197 cc
+Hyundai,Creta N Line,SUV5,N10 DCT,Petrol,Automatic, Chennai,25.75,18.00 Km/l,1482 cc
+Hyundai,Creta Electric,SUV5,Executive,Electric,Automatic, Chennai,19.29,390.00 Km/full charge,42000 watt
+Hyundai,Alcazar,SUV6,Signature DCT 6 STR,Petrol,Automatic, Chennai,27.18,18.00 Km/l,1482 cc
+Hyundai,IONIQ 5,SUV5,RWD,Electric,Automatic, Chennai,48.35,631.00 Km/full charge,72600 watt
+Hyundai,Creta (2023-2024),SUV5,1.5 SX Executive Diesel,Diesel,Manual, Chennai,18.82,17.00 Km/l,1497 cc
+Hyundai,Alcazar (2021-2023),SUV6,1.5 Platinum 7 STR Diesel,Diesel,Manual, Chennai,24.11,14.50 Km/l,1999 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Era,Petrol,Manual, Delhi,6.74,18.00 Km/l,1197 cc
+Hyundai,Aura,Sedan5,1.2 E CNG,CNG,Manual, Delhi,8.65,21.00 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 E,Petrol,Manual, Delhi,13.03,17.40 Km/l,1497 cc
+Hyundai,i20 N Line,Hatchback5,N6,Petrol,Manual, Delhi,11.3,20.25 Km/l,998 cc
+Hyundai,Venue,SUV5,1.2 S,Petrol,Manual, Delhi,10.47,17.52 Km/l,1197 cc
+Hyundai,Venue N-Line,SUV5,N6,Petrol,Manual, Delhi,14.15,20.00 Km/l,998 cc
+Hyundai,Tucson,SUV5,2.0 Platinum AT Petrol,Petrol,Automatic, Delhi,34.12,12.50 Km/l,1999 cc
+Hyundai,Exter,SUV5,1.2 EX(O),Petrol,Manual, Delhi,7.55,19.40 Km/l,1197 cc
+Hyundai,Verna,Sedan5,1.5 S,Petrol,Manual, Delhi,14.2,25.00 Km/l,1497 cc
+Hyundai,i20,Hatchback5,1.2 Asta,Petrol,Manual, Delhi,10.68,20.35 Km/l,1197 cc
+Hyundai,Creta N Line,SUV5,N8,Petrol,Manual, Delhi,19.72,18.00 Km/l,1482 cc
+Hyundai,IONIQ 5,SUV5,RWD,Electric,Automatic, Delhi,47.72,631.00 Km/full charge,72600 watt
+Hyundai,Creta Electric,SUV5,Executive,Electric,Automatic, Delhi,19.12,390.00 Km/full charge,42000 watt
+Hyundai,Alcazar,SUV7,Executive,Petrol,Manual, Delhi,17.67,18.00 Km/l,1482 cc
+Hyundai,Creta (2023-2024),SUV5,1.5 SX Executive Diesel,Diesel,Manual, Delhi,18.43,17.00 Km/l,1497 cc
+Hyundai,Alcazar (2021-2023),SUV6,1.5 Platinum 7 STR Diesel,Diesel,Manual, Delhi,23.04,14.50 Km/l,1999 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Era,Petrol,Manual, Faridabad,6.67,18.00 Km/l,1197 cc
+Hyundai,Aura,Sedan5,1.2 S CNG,CNG,Manual, Faridabad,9.48,21.00 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 E,Petrol,Manual, Faridabad,12.57,17.40 Km/l,1497 cc
+Hyundai,Venue N-Line,SUV5,N6,Petrol,Manual, Faridabad,13.72,20.00 Km/l,998 cc
+Hyundai,Venue,SUV5,1.2 S,Petrol,Manual, Faridabad,10.4,17.52 Km/l,1197 cc
+Hyundai,Tucson,SUV5,2.0 Platinum AT Petrol,Petrol,Automatic, Faridabad,33.51,12.50 Km/l,1999 cc
+Hyundai,Exter,SUV5,1.2 EX(O),Petrol,Manual, Faridabad,7.48,19.40 Km/l,1197 cc
+Hyundai,Verna,Sedan5,1.5 S,Petrol,Manual, Faridabad,13.7,25.00 Km/l,1497 cc
+Hyundai,i20,Hatchback5,1.2 Asta,Petrol,Manual, Faridabad,10.6,20.35 Km/l,1197 cc
+Hyundai,Creta N Line,SUV5,N8,Petrol,Manual, Faridabad,19.04,18.00 Km/l,1482 cc
+Hyundai,i20 N Line,Hatchback5,N6,Petrol,Manual, Faridabad,11.22,20.25 Km/l,998 cc
+Hyundai,IONIQ 5,SUV5,RWD,Electric,Automatic, Faridabad,48.89,631.00 Km/full charge,72600 watt
+Hyundai,Alcazar,SUV7,Executive,Petrol,Manual, Faridabad,16.88,18.00 Km/l,1482 cc
+Hyundai,Creta (2023-2024),SUV5,1.5 SX Executive Diesel,Diesel,Manual, Faridabad,17.67,17.00 Km/l,1497 cc
+Hyundai,Alcazar (2021-2023),SUV6,1.5 Platinum 7 STR Diesel,Diesel,Manual, Faridabad,22.21,14.50 Km/l,1999 cc
+Hyundai,Alcazar (2023-2024),SUV6,1.5 Platinum(O) AT 7 STR Diesel,Diesel,Automatic, Faridabad,23.89,14.50 Km/l,1999 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Era,Petrol,Manual, Ghaziabad,6.84,18.00 Km/l,1197 cc
+Hyundai,Aura,Sedan5,1.2 SX,Petrol,Manual, Ghaziabad,9.23,21.00 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 E,Petrol,Manual, Ghaziabad,12.79,17.40 Km/l,1497 cc
+Hyundai,i20 N Line,Hatchback5,N6,Petrol,Manual, Ghaziabad,11.21,20.25 Km/l,998 cc
+Hyundai,Venue N-Line,SUV5,N6,Petrol,Manual, Ghaziabad,13.95,20.00 Km/l,998 cc
+Hyundai,Venue,SUV5,1.2 E,Petrol,Manual, Ghaziabad,9,17.52 Km/l,1197 cc
+Hyundai,Tucson,SUV5,2.0 Platinum AT Petrol,Petrol,Automatic, Ghaziabad,33.5,12.50 Km/l,1999 cc
+Hyundai,Exter,SUV5,1.2 EX(O),Petrol,Manual, Ghaziabad,7.47,19.40 Km/l,1197 cc
+Hyundai,Verna,Sedan5,1.5 SX,Petrol,Manual, Ghaziabad,15.1,25.00 Km/l,1497 cc
+Hyundai,i20,Hatchback5,1.2 Magna,Petrol,Manual, Ghaziabad,8.83,20.35 Km/l,1197 cc
+Hyundai,Creta N Line,SUV5,N8,Petrol,Manual, Ghaziabad,19.37,18.00 Km/l,1482 cc
+Hyundai,IONIQ 5,SUV5,RWD,Electric,Automatic, Ghaziabad,47.74,631.00 Km/full charge,72600 watt
+Hyundai,Creta Electric,SUV5,Executive,Electric,Automatic, Ghaziabad,19.11,390.00 Km/full charge,42000 watt
+Hyundai,Alcazar,SUV7,Executive,Petrol,Manual, Ghaziabad,17.17,18.00 Km/l,1482 cc
+Hyundai,Creta (2023-2024),SUV5,1.5 SX Executive Diesel,Diesel,Manual, Ghaziabad,17.98,17.00 Km/l,1497 cc
+Hyundai,Alcazar (2021-2023),SUV6,1.5 Platinum 7 STR Diesel,Diesel,Manual, Ghaziabad,22.57,14.50 Km/l,1999 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Era,Petrol,Manual, Gurgaon,6.67,18.00 Km/l,1197 cc
+Hyundai,Aura,Sedan5,1.2 S CNG,CNG,Manual, Gurgaon,9.48,21.00 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 E,Petrol,Manual, Gurgaon,12.57,17.40 Km/l,1497 cc
+Hyundai,i20 N Line,Hatchback5,N6,Petrol,Manual, Gurgaon,11.22,20.25 Km/l,998 cc
+Hyundai,Venue N-Line,SUV5,N6,Petrol,Manual, Gurgaon,13.72,20.00 Km/l,998 cc
+Hyundai,Venue,SUV5,1.2 S,Petrol,Manual, Gurgaon,10.4,17.52 Km/l,1197 cc
+Hyundai,Exter,SUV5,1.2 EX(O),Petrol,Manual, Gurgaon,7.48,19.40 Km/l,1197 cc
+Hyundai,Verna,Sedan5,1.5 S,Petrol,Manual, Gurgaon,13.7,25.00 Km/l,1497 cc
+Hyundai,i20,Hatchback5,1.2 Asta,Petrol,Manual, Gurgaon,10.6,20.35 Km/l,1197 cc
+Hyundai,IONIQ 5,SUV5,RWD,Electric,Automatic, Gurgaon,48.89,631.00 Km/full charge,72600 watt
+Hyundai,Tucson,SUV5,2.0 Platinum AT Petrol,Petrol,Automatic, Gurgaon,33.51,12.50 Km/l,1999 cc
+Hyundai,Creta N Line,SUV5,N8,Petrol,Manual, Gurgaon,19.04,18.00 Km/l,1482 cc
+Hyundai,Alcazar,SUV7,Executive,Petrol,Manual, Gurgaon,16.88,18.00 Km/l,1482 cc
+Hyundai,Creta (2023-2024),SUV5,1.5 SX Executive Diesel,Diesel,Manual, Gurgaon,17.67,17.00 Km/l,1497 cc
+Hyundai,Alcazar (2021-2023),SUV6,1.5 Platinum 7 STR Diesel,Diesel,Manual, Gurgaon,22.21,14.50 Km/l,1999 cc
+Hyundai,Alcazar (2023-2024),SUV6,1.5 Platinum(O) AT 7 STR Diesel,Diesel,Automatic, Gurgaon,23.89,14.50 Km/l,1999 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Sportz,Petrol,Manual, Hyderabad,8.96,18.00 Km/l,1197 cc
+Hyundai,Aura,Sedan5,1.2 SX,Petrol,Manual, Hyderabad,9.81,21.00 Km/l,1197 cc
+Hyundai,Venue,SUV5,1.5 SX,Diesel,Manual, Hyderabad,15.38,17.52 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 EX,Petrol,Manual, Hyderabad,15.22,17.40 Km/l,1497 cc
+Hyundai,i20 N Line,Hatchback5,N8,Petrol,Manual, Hyderabad,13.93,20.25 Km/l,998 cc
+Hyundai,Venue N-Line,SUV5,N8 DCT,Petrol,Automatic, Hyderabad,16.97,20.00 Km/l,998 cc
+Hyundai,Tucson,SUV5,2.0 Platinum AT Petrol,Petrol,Automatic, Hyderabad,36.36,12.50 Km/l,1999 cc
+Hyundai,Exter,SUV5,1.2 EX(O),Petrol,Manual, Hyderabad,7.94,19.40 Km/l,1197 cc
+Hyundai,Verna,Sedan5,1.5 EX,Petrol,Manual, Hyderabad,13.69,25.00 Km/l,1497 cc
+Hyundai,i20,Hatchback5,1.2 Sportz,Petrol,Manual, Hyderabad,10.13,20.35 Km/l,1197 cc
+Hyundai,IONIQ 5,SUV5,RWD,Electric,Automatic, Hyderabad,55.66,631.00 Km/full charge,72600 watt
+Hyundai,Creta N Line,SUV5,N10 DCT,Petrol,Automatic, Hyderabad,25.28,18.00 Km/l,1482 cc
+Hyundai,Alcazar,SUV6,Signature DCT,Petrol,Automatic, Hyderabad,26.44,18.00 Km/l,1482 cc
+Hyundai,Creta Electric,SUV5,Executive,Electric,Automatic, Hyderabad,19.31,390.00 Km/full charge,42000 watt
+Hyundai,Creta (2023-2024),SUV5,1.5 SX Executive Diesel,Diesel,Manual, Hyderabad,19.04,17.00 Km/l,1497 cc
+Hyundai,Alcazar (2021-2023),SUV6,1.5 Platinum 7 STR Diesel,Diesel,Manual, Hyderabad,23.9,14.50 Km/l,1999 cc
+Hyundai,Alcazar,SUV6,Executive,Petrol,Manual, Jaipur,17.73,18.00 Km/l,1482 cc
+Hyundai,Aura,Sedan5,1.2 E CNG,CNG,Manual, Jaipur,8.71,21.00 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 SX,Petrol,Manual, Jaipur,18.23,17.40 Km/l,1497 cc
+Hyundai,Creta N Line,SUV5,N8,Petrol,Manual, Jaipur,20,18.00 Km/l,1482 cc
+Hyundai,Exter,SUV5,1.2 S(O),Petrol,Manual, Jaipur,9.1,19.40 Km/l,1197 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Corporate AMT,Petrol,Automatic, Jaipur,9,18.00 Km/l,1197 cc
+Hyundai,i20,Hatchback5,1.2 Magna,Petrol,Manual, Jaipur,9.17,20.35 Km/l,1197 cc
+Hyundai,i20 N Line,Hatchback5,N6,Petrol,Manual, Jaipur,11.64,20.25 Km/l,998 cc
+Hyundai,IONIQ 5,SUV5,RWD,Electric,Automatic, Jaipur,49.04,631.00 Km/full charge,72600 watt
+Hyundai,Tucson,SUV5,2.0 Platinum AT Petrol,Petrol,Automatic, Jaipur,34.61,12.50 Km/l,1999 cc
+Hyundai,Venue,SUV5,1.2 SX,Petrol,Manual, Jaipur,13.12,17.52 Km/l,1197 cc
+Hyundai,Venue N-Line,SUV5,N6,Petrol,Manual, Jaipur,14.21,20.00 Km/l,998 cc
+Hyundai,Verna,Sedan5,1.5 SX,Petrol,Manual, Jaipur,15.59,25.00 Km/l,1497 cc
+Hyundai,Creta Electric,SUV5,Excellence LR,Electric,Automatic, Jaipur,25.24,390.00 Km/full charge,42000 watt
+Hyundai,Creta (2023-2024),SUV5,1.5 SX Executive Diesel,Diesel,Manual, Jaipur,18.52,17.00 Km/l,1497 cc
+Hyundai,Alcazar (2021-2023),SUV6,1.5 Platinum 7 STR Diesel,Diesel,Manual, Jaipur,23.29,14.50 Km/l,1999 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Sportz AMT,Petrol,Automatic, Mumbai,9.48,18.00 Km/l,1197 cc
+Hyundai,Aura,Sedan5,1.2 E CNG,CNG,Manual, Mumbai,8.66,21.00 Km/l,1197 cc
+Hyundai,Venue,SUV5,1.2 S,Petrol,Manual, Mumbai,10.86,17.52 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 S Diesel,Diesel,Manual, Mumbai,18.16,17.40 Km/l,1497 cc
+Hyundai,i20 N Line,Hatchback5,N8 DCT,Petrol,Automatic, Mumbai,14.71,20.25 Km/l,998 cc
+Hyundai,Venue N-Line,SUV5,N6,Petrol,Manual, Mumbai,14.44,20.00 Km/l,998 cc
+Hyundai,Tucson,SUV5,2.0 Platinum AT Petrol,Petrol,Automatic, Mumbai,35.11,12.50 Km/l,1999 cc
+Hyundai,Exter,SUV5,1.2 S CNG,CNG,Manual, Mumbai,9.83,19.40 Km/l,1197 cc
+Hyundai,Verna,Sedan5,1.5 SX IVT,Petrol,Automatic, Mumbai,17.16,25.00 Km/l,1497 cc
+Hyundai,Creta N Line,SUV5,N10 DCT,Petrol,Automatic, Mumbai,24.59,18.00 Km/l,1482 cc
+Hyundai,i20,Hatchback5,1.2 Sportz,Petrol,Manual, Mumbai,9.94,20.35 Km/l,1197 cc
+Hyundai,IONIQ 5,SUV5,RWD,Electric,Automatic, Mumbai,48.64,631.00 Km/full charge,72600 watt
+Hyundai,Alcazar,SUV6,Signature DCT,Petrol,Automatic, Mumbai,25.57,18.00 Km/l,1482 cc
+Hyundai,Creta Electric,SUV5,Executive,Electric,Automatic, Mumbai,19.34,390.00 Km/full charge,42000 watt
+Hyundai,Creta (2023-2024),SUV5,1.5 SX Executive Diesel,Diesel,Manual, Mumbai,18.72,17.00 Km/l,1497 cc
+Hyundai,Alcazar (2021-2023),SUV6,1.5 Platinum 7 STR Diesel,Diesel,Manual, Mumbai,23.38,14.50 Km/l,1999 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Era,Petrol,Manual, Noida,6.84,18.00 Km/l,1197 cc
+Hyundai,Aura,Sedan5,1.2 SX,Petrol,Manual, Noida,9.23,21.00 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 E,Petrol,Manual, Noida,12.79,17.40 Km/l,1497 cc
+Hyundai,i20 N Line,Hatchback5,N6,Petrol,Manual, Noida,11.21,20.25 Km/l,998 cc
+Hyundai,Venue N-Line,SUV5,N6,Petrol,Manual, Noida,13.95,20.00 Km/l,998 cc
+Hyundai,Venue,SUV5,1.2 E,Petrol,Manual, Noida,9,17.52 Km/l,1197 cc
+Hyundai,Tucson,SUV5,2.0 Platinum AT Petrol,Petrol,Automatic, Noida,33.5,12.50 Km/l,1999 cc
+Hyundai,Verna,Sedan5,1.5 SX,Petrol,Manual, Noida,15.1,25.00 Km/l,1497 cc
+Hyundai,Exter,SUV5,1.2 EX(O),Petrol,Manual, Noida,7.47,19.40 Km/l,1197 cc
+Hyundai,i20,Hatchback5,1.2 Magna,Petrol,Manual, Noida,8.83,20.35 Km/l,1197 cc
+Hyundai,Creta N Line,SUV5,N8,Petrol,Manual, Noida,19.37,18.00 Km/l,1482 cc
+Hyundai,IONIQ 5,SUV5,RWD,Electric,Automatic, Noida,47.74,631.00 Km/full charge,72600 watt
+Hyundai,Creta Electric,SUV5,Executive,Electric,Automatic, Noida,19.11,390.00 Km/full charge,42000 watt
+Hyundai,Alcazar,SUV7,Executive,Petrol,Manual, Noida,17.17,18.00 Km/l,1482 cc
+Hyundai,Creta (2023-2024),SUV5,1.5 SX Executive Diesel,Diesel,Manual, Noida,17.98,17.00 Km/l,1497 cc
+Hyundai,Alcazar (2021-2023),SUV6,1.5 Platinum 7 STR Diesel,Diesel,Manual, Noida,22.57,14.50 Km/l,1999 cc
+Hyundai,Grand i10 Nios,Hatchback5,1.2 Sportz,Petrol,Manual, Pune,8.86,18.00 Km/l,1197 cc
+Hyundai,Aura,Sedan5,1.2 S,Petrol,Manual, Pune,8.81,21.00 Km/l,1197 cc
+Hyundai,Venue,SUV5,1.2 E,Petrol,Manual, Pune,9.45,17.52 Km/l,1197 cc
+Hyundai,Creta,SUV5,1.5 EX,Petrol,Manual, Pune,14.79,17.40 Km/l,1497 cc
+Hyundai,i20 N Line,Hatchback5,N6,Petrol,Manual, Pune,11.78,20.25 Km/l,998 cc
+Hyundai,Venue N-Line,SUV5,N6,Petrol,Manual, Pune,14.52,20.00 Km/l,998 cc
+Hyundai,Tucson,SUV5,2.0 Platinum AT Petrol,Petrol,Automatic, Pune,35.16,12.50 Km/l,1999 cc
+Hyundai,Exter,SUV5,1.2 S,Petrol,Manual, Pune,9.03,19.40 Km/l,1197 cc
+Hyundai,Verna,Sedan5,1.5 SX(O) IVT,Petrol,Automatic, Pune,19.54,25.00 Km/l,1497 cc
+Hyundai,IONIQ 5,SUV5,RWD,Electric,Automatic, Pune,49.04,631.00 Km/full charge,72600 watt
+Hyundai,i20,Hatchback5,1.2 Sportz,Petrol,Manual, Pune,10.01,20.35 Km/l,1197 cc
+Hyundai,Creta N Line,SUV5,N10,Petrol,Manual, Pune,23.19,18.00 Km/l,1482 cc
+Hyundai,Creta Electric,SUV5,Executive,Electric,Automatic, Pune,19.5,390.00 Km/full charge,42000 watt
+Hyundai,Alcazar,SUV7,Platinum DCT,Petrol,Automatic, Pune,25.3,18.00 Km/l,1482 cc
+Hyundai,Creta (2023-2024),SUV5,1.5 SX Executive Diesel,Diesel,Manual, Pune,18.64,17.00 Km/l,1497 cc
+Hyundai,Alcazar (2021-2023),SUV6,1.5 Platinum 7 STR Diesel,Diesel,Manual, Pune,23.38,14.50 Km/l,1999 cc
+Renault,Kiger,SUV5,RXT(O) CVT Turbo,Petrol,Automatic, Ahmedabad,11.73,19.17 Km/l,999 cc
+Renault,Kwid,Hatchback5,1.0 RXE,Petrol,Manual, Ahmedabad,5.36,23.00 Km/l,999 cc
+Renault,Triber,MPV,1.0 RXE,Petrol,Manual, Ahmedabad,6.82,19.00 Km/l,999 cc
+Renault,Kiger,SUV5,RXT(O) CVT Turbo,Petrol,Automatic, Bangalore,13.07,19.17 Km/l,999 cc
+Renault,Kwid,Hatchback5,1.0 RXE,Petrol,Manual, Bangalore,5.82,23.00 Km/l,999 cc
+Renault,Triber,MPV,1.0 RXE,Petrol,Manual, Bangalore,7.4,19.00 Km/l,999 cc
+Renault,Kiger,SUV5,RXE,Petrol,Manual, Chennai,7.21,19.17 Km/l,999 cc
+Renault,Kwid,Hatchback5,1.0 RXL(O),Petrol,Manual, Chennai,5.98,23.00 Km/l,999 cc
+Renault,Triber,MPV,1.0 RXL,Petrol,Manual, Chennai,8.15,19.00 Km/l,999 cc
+Renault,Kiger,SUV5,RXE,Petrol,Manual, Delhi,6.73,19.17 Km/l,999 cc
+Renault,Triber,MPV,1.0 RXE,Petrol,Manual, Delhi,6.73,19.00 Km/l,999 cc
+Renault,Kwid,Hatchback5,1.0 RXL(O),Petrol,Manual, Delhi,5.65,23.00 Km/l,999 cc
+Renault,Triber,MPV,1.0 RXE,Petrol,Manual, Faridabad,6.77,19.00 Km/l,999 cc
+Renault,Kwid,Hatchback5,1.0 RXL(O),Petrol,Manual, Faridabad,5.68,23.00 Km/l,999 cc
+Renault,Kiger,SUV5,RXE,Petrol,Manual, Faridabad,6.78,19.17 Km/l,999 cc
+Renault,Triber,MPV,1.0 RXE,Petrol,Manual, Ghaziabad,6.95,19.00 Km/l,999 cc
+Renault,Kwid,Hatchback5,1.0 RXL(O),Petrol,Manual, Ghaziabad,5.82,23.00 Km/l,999 cc
+Renault,Kiger,SUV5,RXE,Petrol,Manual, Ghaziabad,6.95,19.17 Km/l,999 cc
+Renault,Kiger,SUV5,RXE,Petrol,Manual, Gurgaon,6.78,19.17 Km/l,999 cc
+Renault,Triber,MPV,1.0 RXE,Petrol,Manual, Gurgaon,6.77,19.00 Km/l,999 cc
+Renault,Kwid,Hatchback5,1.0 RXL(O),Petrol,Manual, Gurgaon,5.68,23.00 Km/l,999 cc
+Renault,Kiger,SUV5,RXT(O) CVT Turbo,Petrol,Automatic, Hyderabad,12.88,19.17 Km/l,999 cc
+Renault,Kwid,Hatchback5,1.0 RXE,Petrol,Manual, Hyderabad,5.7,23.00 Km/l,999 cc
+Renault,Triber,MPV,1.0 RXE,Petrol,Manual, Hyderabad,7.3,19.00 Km/l,999 cc
+Renault,Kiger,SUV5,RXT(O) CVT Turbo,Petrol,Automatic, Jaipur,12.18,19.17 Km/l,999 cc
+Renault,Kwid,Hatchback5,1.0 RXE,Petrol,Manual, Jaipur,5.58,23.00 Km/l,999 cc
+Renault,Triber,MPV,1.0 RXE,Petrol,Manual, Jaipur,7.08,19.00 Km/l,999 cc
+Renault,Kiger,SUV5,RXL,Petrol,Manual, Mumbai,7.88,19.17 Km/l,999 cc
+Renault,Triber,MPV,1.0 RXE,Petrol,Manual, Mumbai,7.17,19.00 Km/l,999 cc
+Renault,Kwid,Hatchback5,1.0 RXL(O),Petrol,Manual, Mumbai,6,23.00 Km/l,999 cc
+Renault,Triber,MPV,1.0 RXE,Petrol,Manual, Noida,6.95,19.00 Km/l,999 cc
+Renault,Kwid,Hatchback5,1.0 RXL(O),Petrol,Manual, Noida,5.82,23.00 Km/l,999 cc
+Renault,Kiger,SUV5,RXE,Petrol,Manual, Noida,6.95,19.17 Km/l,999 cc
+Renault,Kiger,SUV5,RXZ,Petrol,Manual, Pune,10.34,19.17 Km/l,999 cc
+Renault,Kwid,Hatchback5,1.0 RXE,Petrol,Manual, Pune,5.59,23.00 Km/l,999 cc
+Renault,Triber,MPV,1.0 RXZ AMT,Petrol,Automatic, Pune,10.28,19.00 Km/l,999 cc
+Volkswagen,Virtus,Sedan5,1.5 GT Plus DSG,Petrol,Automatic, Ahmedabad,21.77,19.40 Km/l,999 cc
+Volkswagen,Taigun,SUV2,1.5 GT Plus Edge DSG Matte (Electric Seats),Petrol,Automatic, Ahmedabad,22.73,18.10 Km/l,999 cc
+Volkswagen,Tiguan,SUV2,2.0 Elegance TSI AT,Petrol,Automatic, Ahmedabad,40.01,12.65 Km/l,1984 cc
+Volkswagen,Virtus (2022-2023),Sedan5,1.0 Comfortline TSI,Petrol,Manual, Ahmedabad,13.07,19.40 Km/l,999 cc
+Volkswagen,Taigun (2021-2023),SUV2,1.5 GT Plus TSI AT,Petrol,Automatic, Ahmedabad,21.39,18.10 Km/l,999 cc
+Volkswagen,Tiguan,SUV5,2.0 Elegance TSI AT,Petrol,Automatic, Bangalore,44.99,12.65 Km/l,1984 cc
+Volkswagen,Taigun,SUV5,1.0 GT Line,Petrol,Manual, Bangalore,18.4,18.10 Km/l,999 cc
+Volkswagen,Virtus,Sedan5,1.0 Comfortline,Petrol,Manual, Bangalore,14.54,19.40 Km/l,999 cc
+Volkswagen,Virtus (2022-2023),Sedan5,1.0 Comfortline TSI,Petrol,Manual, Bangalore,14.55,19.40 Km/l,999 cc
+Volkswagen,Taigun (2021-2023),SUV2,1.5 GT Plus TSI AT,Petrol,Automatic, Bangalore,23.82,18.10 Km/l,999 cc
+Volkswagen,Virtus,Sedan5,1.5 GT Plus DSG,Petrol,Automatic, Chennai,24.09,19.40 Km/l,999 cc
+Volkswagen,Taigun,SUV2,1.5 GT Plus Edge DSG Matte (Electric Seats),Petrol,Automatic, Chennai,25.15,18.10 Km/l,999 cc
+Volkswagen,Tiguan,SUV2,2.0 Elegance TSI AT,Petrol,Automatic, Chennai,44.96,12.65 Km/l,1984 cc
+Volkswagen,Virtus (2022-2023),Sedan5,1.0 Comfortline TSI,Petrol,Manual, Chennai,14.46,19.40 Km/l,999 cc
+Volkswagen,Taigun (2021-2023),SUV2,1.5 GT Plus TSI AT,Petrol,Automatic, Chennai,23.66,18.10 Km/l,999 cc
+Volkswagen,Virtus,Sedan5,1.0 Comfortline,Petrol,Manual, Delhi,13.48,19.40 Km/l,999 cc
+Volkswagen,Taigun,SUV5,1.0 Comfortline,Petrol,Manual, Delhi,13.65,18.10 Km/l,999 cc
+Volkswagen,Tiguan,SUV2,2.0 Elegance TSI AT,Petrol,Automatic, Delhi,41.41,12.65 Km/l,1984 cc
+Volkswagen,Virtus (2022-2023),Sedan5,1.0 Comfortline TSI,Petrol,Manual, Delhi,13.53,19.40 Km/l,999 cc
+Volkswagen,Taigun (2021-2023),SUV2,1.5 GT Plus TSI AT,Petrol,Automatic, Delhi,22.14,18.10 Km/l,999 cc
+Volkswagen,Virtus,Sedan5,1.5 GT Plus DSG,Petrol,Automatic, Faridabad,21.89,19.40 Km/l,999 cc
+Volkswagen,Taigun,SUV2,1.5 GT Plus Edge DSG Matte (Electric Seats),Petrol,Automatic, Faridabad,22.9,18.10 Km/l,999 cc
+Volkswagen,Tiguan,SUV2,2.0 Elegance TSI AT,Petrol,Automatic, Faridabad,41.49,12.65 Km/l,1984 cc
+Volkswagen,Virtus (2022-2023),Sedan5,1.0 Comfortline TSI,Petrol,Manual, Faridabad,13.34,19.40 Km/l,999 cc
+Volkswagen,Taigun (2021-2023),SUV2,1.5 GT Plus TSI AT,Petrol,Automatic, Faridabad,21.81,18.10 Km/l,999 cc
+Volkswagen,Virtus,Sedan5,1.5 GT Plus DSG,Petrol,Automatic, Ghaziabad,22.28,19.40 Km/l,999 cc
+Volkswagen,Taigun,SUV2,1.5 GT Plus Edge DSG Matte (Electric Seats),Petrol,Automatic, Ghaziabad,23.33,18.10 Km/l,999 cc
+Volkswagen,Tiguan,SUV2,2.0 Elegance TSI AT,Petrol,Automatic, Ghaziabad,41.48,12.65 Km/l,1984 cc
+Volkswagen,Virtus (2022-2023),Sedan5,1.0 Comfortline TSI,Petrol,Manual, Ghaziabad,13.55,19.40 Km/l,999 cc
+Volkswagen,Taigun (2021-2023),SUV2,1.5 GT Plus TSI AT,Petrol,Automatic, Ghaziabad,22.16,18.10 Km/l,999 cc
+Volkswagen,Virtus,Sedan5,1.5 GT Plus DSG,Petrol,Automatic, Gurgaon,21.89,19.40 Km/l,999 cc
+Volkswagen,Taigun,SUV2,1.5 GT Plus Edge DSG Matte (Electric Seats),Petrol,Automatic, Gurgaon,22.9,18.10 Km/l,999 cc
+Volkswagen,Tiguan,SUV2,2.0 Elegance TSI AT,Petrol,Automatic, Gurgaon,41.49,12.65 Km/l,1984 cc
+Volkswagen,Virtus (2022-2023),Sedan5,1.0 Comfortline TSI,Petrol,Manual, Gurgaon,13.34,19.40 Km/l,999 cc
+Volkswagen,Taigun (2021-2023),SUV2,1.5 GT Plus TSI AT,Petrol,Automatic, Gurgaon,21.81,18.10 Km/l,999 cc
+Volkswagen,Virtus,Sedan5,1.5 GT Plus DSG,Petrol,Automatic, Hyderabad,23.88,19.40 Km/l,999 cc
+Volkswagen,Taigun,SUV2,1.5 GT Plus Edge DSG Matte (Electric Seats),Petrol,Automatic, Hyderabad,24.94,18.10 Km/l,999 cc
+Volkswagen,Tiguan,SUV2,2.0 Elegance TSI AT,Petrol,Automatic, Hyderabad,44.24,12.65 Km/l,1984 cc
+Volkswagen,Virtus (2022-2023),Sedan5,1.0 Comfortline TSI,Petrol,Manual, Hyderabad,14.34,19.40 Km/l,999 cc
+Volkswagen,Taigun (2021-2023),SUV2,1.5 GT Plus TSI AT,Petrol,Automatic, Hyderabad,23.46,18.10 Km/l,999 cc
+Volkswagen,Virtus,Sedan5,1.5 GT Plus DSG,Petrol,Automatic, Jaipur,22.84,19.40 Km/l,999 cc
+Volkswagen,Taigun,SUV2,1.5 GT Plus Edge DSG Matte (Electric Seats),Petrol,Automatic, Jaipur,23.85,18.10 Km/l,999 cc
+Volkswagen,Tiguan,SUV2,2.0 Elegance TSI AT,Petrol,Automatic, Jaipur,41.89,12.65 Km/l,1984 cc
+Volkswagen,Virtus (2022-2023),Sedan5,1.0 Comfortline TSI,Petrol,Manual, Jaipur,13.56,19.40 Km/l,999 cc
+Volkswagen,Taigun (2021-2023),SUV2,1.5 GT Plus TSI AT,Petrol,Automatic, Jaipur,22.44,18.10 Km/l,999 cc
+Volkswagen,Tiguan,SUV5,2.0 Elegance TSI AT,Petrol,Automatic, Mumbai,45.72,12.65 Km/l,1984 cc
+Volkswagen,Taigun,SUV5,1.0 GT Line AT,Petrol,Automatic, Mumbai,18.67,18.10 Km/l,999 cc
+Volkswagen,Virtus,Sedan5,1.0 Comfortline,Petrol,Manual, Mumbai,13.75,19.40 Km/l,999 cc
+Volkswagen,Virtus (2022-2023),Sedan5,1.0 Comfortline TSI,Petrol,Manual, Mumbai,13.3,19.40 Km/l,999 cc
+Volkswagen,Taigun (2021-2023),SUV2,1.5 GT Plus TSI AT,Petrol,Automatic, Mumbai,21.77,18.10 Km/l,999 cc
+Volkswagen,Virtus,Sedan5,1.5 GT Plus DSG,Petrol,Automatic, Noida,22.28,19.40 Km/l,999 cc
+Volkswagen,Taigun,SUV2,1.5 GT Plus Edge DSG Matte (Electric Seats),Petrol,Automatic, Noida,23.33,18.10 Km/l,999 cc
+Volkswagen,Tiguan,SUV2,2.0 Elegance TSI AT,Petrol,Automatic, Noida,41.48,12.65 Km/l,1984 cc
+Volkswagen,Virtus (2022-2023),Sedan5,1.0 Comfortline TSI,Petrol,Manual, Noida,13.55,19.40 Km/l,999 cc
+Volkswagen,Taigun (2021-2023),SUV2,1.5 GT Plus TSI AT,Petrol,Automatic, Noida,22.16,18.10 Km/l,999 cc
+Volkswagen,Virtus,Sedan5,1.5 GT Plus DSG,Petrol,Automatic, Pune,22.71,19.40 Km/l,999 cc
+Volkswagen,Taigun,SUV2,1.5 GT Plus Edge DSG Matte (Electric Seats),Petrol,Automatic, Pune,23.64,18.10 Km/l,999 cc
+Volkswagen,Tiguan,SUV2,2.0 Elegance TSI AT,Petrol,Automatic, Pune,41.08,12.65 Km/l,1984 cc
+Volkswagen,Virtus (2022-2023),Sedan5,1.0 Comfortline TSI,Petrol,Manual, Pune,13.3,19.40 Km/l,999 cc
+Volkswagen,Taigun (2021-2023),SUV2,1.5 GT Plus TSI AT,Petrol,Automatic, Pune,21.77,18.10 Km/l,999 cc
+Kia,Carens,SUV6,1.5 Prestige(O) 6 STR Petrol,Petrol,Manual, Ahmedabad,14,15.70 Km/l,1497 cc
+Kia,Sonet,SUV5,1.5 X Line AT,Diesel,Automatic, Ahmedabad,17.95,18.40 Km/l,1197 cc
+Kia,EV9,SUV6,GT-Line AWD,Electric,Automatic, Ahmedabad,1.47,561.00 Km/full charge,99800 watt
+Kia,EV6,SUV5,GT Line AWD,Electric,Automatic, Ahmedabad,71.99,708.00 Km/full charge,77400 watt
+Kia,Carnival,SUV7,Limousine Plus,Diesel,Automatic, Ahmedabad,72.68,14.85 Km/l,2151 cc
+Kia,Seltos,SUV5,1.5 GTX Plus DCT GDi,Petrol,Automatic, Ahmedabad,22.73,17.90 Km/l,1482 cc
+Kia,Carnival (2020-2023),SUV7,Limousine 7 Seater,Diesel,Automatic, Ahmedabad,38.64,14.11 Km/l,2199 cc
+Kia,Carens (2022-2023),SUV6,1.5 Premium 7 STR Diesel,Diesel,Manual, Ahmedabad,13.87,15.70 Km/l,1497 cc
+Kia,Sonet (2023-2024),SUV5,1.5 HTK Plus iMT Diesel,Diesel,Manual, Ahmedabad,13.01,18.40 Km/l,1197 cc
+Kia,Seltos (2022-2023),SUV5,1.5 HTX IVT,Petrol,Automatic, Ahmedabad,16.29,18.00 Km/l,1493 cc
+Kia,Seltos (2023-2023),SUV5,1.5 HTE iMT Diesel,Diesel,Manual, Ahmedabad,14.14,21.00 Km/l,1493 cc
+Kia,Sonet (2020-2023),SUV5,1.0 HTK Plus DCT,Petrol,Automatic, Ahmedabad,12.29,18.40 Km/l,1197 cc
+Kia,Seltos,SUV5,1.5 HTK,Petrol,Manual, Bangalore,15.51,17.90 Km/l,1482 cc
+Kia,Sonet,SUV5,1.2 HTE(O),Petrol,Manual, Bangalore,10.17,18.40 Km/l,1197 cc
+Kia,Carens,SUV7,1.5 Premium(O) 7 STR Diesel,Diesel,Manual, Bangalore,16.35,15.70 Km/l,1497 cc
+Kia,EV9,SUV6,GT-Line AWD,Electric,Automatic, Bangalore,1.4,561.00 Km/full charge,99800 watt
+Kia,EV6,SUV5,GT Line AWD,Electric,Automatic, Bangalore,67.91,708.00 Km/full charge,77400 watt
+Kia,Carnival,SUV7,Limousine Plus,Diesel,Automatic, Bangalore,80.36,14.85 Km/l,2151 cc
+Kia,Carnival (2020-2023),SUV7,Limousine 7 Seater,Diesel,Automatic, Bangalore,43.78,14.11 Km/l,2199 cc
+Kia,Carens (2022-2023),SUV6,1.5 Premium 7 STR Diesel,Diesel,Manual, Bangalore,15.44,15.70 Km/l,1497 cc
+Kia,Sonet (2023-2024),SUV5,1.5 HTK Plus iMT Diesel,Diesel,Manual, Bangalore,14.38,18.40 Km/l,1197 cc
+Kia,Seltos (2022-2023),SUV5,1.5 HTX IVT,Petrol,Automatic, Bangalore,18.14,18.00 Km/l,1493 cc
+Kia,Seltos (2023-2023),SUV5,1.5 HTE iMT Diesel,Diesel,Manual, Bangalore,15.75,21.00 Km/l,1493 cc
+Kia,Sonet (2020-2023),SUV5,1.0 HTK Plus DCT,Petrol,Automatic, Bangalore,13.69,18.40 Km/l,1197 cc
+Kia,Seltos,SUV5,1.5 GTX Plus AT Diesel,Diesel,Automatic, Chennai,24.63,17.90 Km/l,1482 cc
+Kia,Sonet,SUV5,1.2 HTK(O),Petrol,Manual, Chennai,11.22,18.40 Km/l,1197 cc
+Kia,Carens,SUV7,1.5 Luxury Plus Turbo iMT 7 STR Petrol,Petrol,Manual, Chennai,21.93,15.70 Km/l,1497 cc
+Kia,EV9,SUV6,GT-Line AWD,Electric,Automatic, Chennai,1.4,561.00 Km/full charge,99800 watt
+Kia,EV6,SUV5,GT Line AWD,Electric,Automatic, Chennai,68.03,708.00 Km/full charge,77400 watt
+Kia,Carnival,SUV7,Limousine Plus,Diesel,Automatic, Chennai,81.64,14.85 Km/l,2151 cc
+Kia,Carnival (2020-2023),SUV7,Limousine 7 Seater,Diesel,Automatic, Chennai,43.41,14.11 Km/l,2199 cc
+Kia,Carens (2022-2023),SUV6,1.5 Premium 7 STR Diesel,Diesel,Manual, Chennai,15.35,15.70 Km/l,1497 cc
+Kia,Sonet (2023-2024),SUV5,1.5 HTK Plus iMT Diesel,Diesel,Manual, Chennai,14.28,18.40 Km/l,1197 cc
+Kia,Seltos (2022-2023),SUV5,1.5 HTX IVT,Petrol,Automatic, Chennai,18.02,18.00 Km/l,1493 cc
+Kia,Seltos (2023-2023),SUV5,1.5 HTE iMT Diesel,Diesel,Manual, Chennai,15.65,21.00 Km/l,1493 cc
+Kia,Sonet (2020-2023),SUV5,1.0 HTK Plus DCT,Petrol,Automatic, Chennai,13.6,18.40 Km/l,1197 cc
+Kia,Carens,SUV7,1.5 Prestige 7 STR Petrol,Petrol,Manual, Delhi,13.91,15.70 Km/l,1497 cc
+Kia,Sonet,SUV5,1.2 HTK(O),Petrol,Manual, Delhi,10.66,18.40 Km/l,1197 cc
+Kia,Seltos,SUV5,1.5 HTX,Petrol,Manual, Delhi,18.16,17.90 Km/l,1482 cc
+Kia,EV9,SUV6,GT-Line AWD,Electric,Automatic, Delhi,1.4,561.00 Km/full charge,99800 watt
+Kia,EV6,SUV5,GT Line AWD,Electric,Automatic, Delhi,68.05,708.00 Km/full charge,77400 watt
+Kia,Carnival,SUV7,Limousine Plus,Diesel,Automatic, Delhi,76.9,14.85 Km/l,2151 cc
+Kia,Carnival (2020-2023),SUV7,Limousine 7 Seater,Diesel,Automatic, Delhi,41.23,14.11 Km/l,2199 cc
+Kia,Carens (2022-2023),SUV6,1.5 Premium 7 STR Diesel,Diesel,Manual, Delhi,14.67,15.70 Km/l,1497 cc
+Kia,Sonet (2023-2024),SUV5,1.5 HTK Plus iMT Diesel,Diesel,Manual, Delhi,13.65,18.40 Km/l,1197 cc
+Kia,Seltos (2022-2023),SUV5,1.5 HTX IVT,Petrol,Automatic, Delhi,16.86,18.00 Km/l,1493 cc
+Kia,Seltos (2023-2023),SUV5,1.5 HTE iMT Diesel,Diesel,Manual, Delhi,14.95,21.00 Km/l,1493 cc
+Kia,Sonet (2020-2023),SUV5,1.0 HTK Plus DCT,Petrol,Automatic, Delhi,12.72,18.40 Km/l,1197 cc
+Kia,Sonet,SUV5,1.2 HTK(O),Petrol,Manual, Faridabad,10.73,18.40 Km/l,1197 cc
+Kia,Seltos,SUV5,1.5 HTX,Petrol,Manual, Faridabad,17.81,17.90 Km/l,1482 cc
+Kia,Carens,SUV7,1.5 Prestige(O) 6 STR Petrol,Petrol,Manual, Faridabad,13.62,15.70 Km/l,1497 cc
+Kia,EV9,SUV6,GT-Line AWD,Electric,Automatic, Faridabad,1.53,561.00 Km/full charge,99800 watt
+Kia,EV6,SUV5,GT Line AWD,Electric,Automatic, Faridabad,68.05,708.00 Km/full charge,77400 watt
+Kia,Carnival,SUV7,Limousine Plus,Diesel,Automatic, Faridabad,75.26,14.85 Km/l,2151 cc
+Kia,Carnival (2020-2023),SUV7,Limousine 7 Seater,Diesel,Automatic, Faridabad,40.43,14.11 Km/l,2199 cc
+Kia,Carens (2022-2023),SUV6,1.5 Premium 7 STR Diesel,Diesel,Manual, Faridabad,14.16,15.70 Km/l,1497 cc
+Kia,Sonet (2023-2024),SUV5,1.5 HTK Plus iMT Diesel,Diesel,Manual, Faridabad,13.13,18.40 Km/l,1197 cc
+Kia,Seltos (2022-2023),SUV5,1.5 HTX IVT,Petrol,Automatic, Faridabad,16.62,18.00 Km/l,1493 cc
+Kia,Seltos (2023-2023),SUV5,1.5 HTE iMT Diesel,Diesel,Manual, Faridabad,14.43,21.00 Km/l,1493 cc
+Kia,Sonet (2020-2023),SUV5,1.0 HTK Plus DCT,Petrol,Automatic, Faridabad,12.55,18.40 Km/l,1197 cc
+Kia,Sonet,SUV5,1.0 X Line DCT,Petrol,Automatic, Ghaziabad,17.39,18.40 Km/l,1197 cc
+Kia,Seltos,SUV5,1.5 HTK Plus iMT GDi,Petrol,Manual, Ghaziabad,18.39,17.90 Km/l,1482 cc
+Kia,Carens,SUV7,1.5 Prestige 7 STR Petrol,Petrol,Manual, Ghaziabad,13.98,15.70 Km/l,1497 cc
+Kia,EV9,SUV6,GT-Line AWD,Electric,Automatic, Ghaziabad,1.4,561.00 Km/full charge,99800 watt
+Kia,EV6,SUV5,GT Line AWD,Electric,Automatic, Ghaziabad,68.05,708.00 Km/full charge,77400 watt
+Kia,Carnival,SUV7,Limousine Plus,Diesel,Automatic, Ghaziabad,75.26,14.85 Km/l,2151 cc
+Kia,Carnival (2020-2023),SUV7,Limousine 7 Seater,Diesel,Automatic, Ghaziabad,40.4,14.11 Km/l,2199 cc
+Kia,Carens (2022-2023),SUV6,1.5 Premium 7 STR Diesel,Diesel,Manual, Ghaziabad,14.38,15.70 Km/l,1497 cc
+Kia,Sonet (2023-2024),SUV5,1.5 HTK Plus iMT Diesel,Diesel,Manual, Ghaziabad,13.35,18.40 Km/l,1197 cc
+Kia,Seltos (2022-2023),SUV5,1.5 HTX IVT,Petrol,Automatic, Ghaziabad,16.88,18.00 Km/l,1493 cc
+Kia,Seltos (2023-2023),SUV5,1.5 HTE iMT Diesel,Diesel,Manual, Ghaziabad,14.66,21.00 Km/l,1493 cc
+Kia,Sonet (2020-2023),SUV5,1.0 HTK Plus DCT,Petrol,Automatic, Ghaziabad,12.74,18.40 Km/l,1197 cc
+Kia,Sonet,SUV5,1.2 HTK(O),Petrol,Manual, Gurgaon,10.73,18.40 Km/l,1197 cc
+Kia,Seltos,SUV5,1.5 HTX,Petrol,Manual, Gurgaon,17.81,17.90 Km/l,1482 cc
+Kia,Carens,SUV7,1.5 Prestige(O) 6 STR Petrol,Petrol,Manual, Gurgaon,13.62,15.70 Km/l,1497 cc
+Kia,EV9,SUV6,GT-Line AWD,Electric,Automatic, Gurgaon,1.53,561.00 Km/full charge,99800 watt
+Kia,EV6,SUV5,GT Line AWD,Electric,Automatic, Gurgaon,68.05,708.00 Km/full charge,77400 watt
+Kia,Carnival,SUV7,Limousine Plus,Diesel,Automatic, Gurgaon,75.26,14.85 Km/l,2151 cc
+Kia,Carnival (2020-2023),SUV7,Limousine 7 Seater,Diesel,Automatic, Gurgaon,40.43,14.11 Km/l,2199 cc
+Kia,Carens (2022-2023),SUV6,1.5 Premium 7 STR Diesel,Diesel,Manual, Gurgaon,14.16,15.70 Km/l,1497 cc
+Kia,Sonet (2023-2024),SUV5,1.5 HTK Plus iMT Diesel,Diesel,Manual, Gurgaon,13.13,18.40 Km/l,1197 cc
+Kia,Seltos (2022-2023),SUV5,1.5 HTX IVT,Petrol,Automatic, Gurgaon,16.62,18.00 Km/l,1493 cc
+Kia,Seltos (2023-2023),SUV5,1.5 HTE iMT Diesel,Diesel,Manual, Gurgaon,14.43,21.00 Km/l,1493 cc
+Kia,Sonet (2020-2023),SUV5,1.0 HTK Plus DCT,Petrol,Automatic, Gurgaon,12.55,18.40 Km/l,1197 cc
+Kia,Sonet,SUV5,1.5 GTX Plus AT,Diesel,Automatic, Hyderabad,19.05,18.40 Km/l,1197 cc
+Kia,Seltos,SUV5,1.5 HTK Plus iMT GDi,Petrol,Manual, Hyderabad,19.23,17.90 Km/l,1482 cc
+Kia,Carens,SUV7,1.5 Premium(O) Turbo iMT 7 STR Petrol,Petrol,Manual, Hyderabad,15.41,15.70 Km/l,1497 cc
+Kia,EV9,SUV6,GT-Line AWD,Electric,Automatic, Hyderabad,1.59,561.00 Km/full charge,99800 watt
+Kia,EV6,SUV5,GT Line AWD,Electric,Automatic, Hyderabad,77.93,708.00 Km/full charge,77400 watt
+Kia,Carnival,SUV7,Limousine Plus,Diesel,Automatic, Hyderabad,80.35,14.85 Km/l,2151 cc
+Kia,Carnival (2020-2023),SUV7,Limousine 7 Seater,Diesel,Automatic, Hyderabad,42.72,14.11 Km/l,2199 cc
+Kia,Carens (2022-2023),SUV6,1.5 Premium 7 STR Diesel,Diesel,Manual, Hyderabad,15.22,15.70 Km/l,1497 cc
+Kia,Sonet (2023-2024),SUV5,1.5 HTK Plus iMT Diesel,Diesel,Manual, Hyderabad,14.14,18.40 Km/l,1197 cc
+Kia,Seltos (2022-2023),SUV5,1.5 HTX IVT,Petrol,Automatic, Hyderabad,17.87,18.00 Km/l,1493 cc
+Kia,Seltos (2023-2023),SUV5,1.5 HTE iMT Diesel,Diesel,Manual, Hyderabad,15.51,21.00 Km/l,1493 cc
+Kia,Sonet (2020-2023),SUV5,1.0 HTK Plus DCT,Petrol,Automatic, Hyderabad,13.48,18.40 Km/l,1197 cc
+Kia,Carens,SUV6,1.5 Prestige(O) 6 STR Petrol,Petrol,Manual, Jaipur,14.02,15.70 Km/l,1497 cc
+Kia,Sonet,SUV5,1.5 X Line AT,Diesel,Automatic, Jaipur,18.4,18.40 Km/l,1197 cc
+Kia,EV9,SUV6,GT-Line AWD,Electric,Automatic, Jaipur,1.4,561.00 Km/full charge,99800 watt
+Kia,EV6,SUV5,GT Line AWD,Electric,Automatic, Jaipur,68.03,708.00 Km/full charge,77400 watt
+Kia,Carnival,SUV7,Limousine Plus,Diesel,Automatic, Jaipur,76.52,14.85 Km/l,2151 cc
+Kia,Seltos,SUV5,1.5 GTX Plus DCT GDi,Petrol,Automatic, Jaipur,23.26,17.90 Km/l,1482 cc
+Kia,Carnival (2020-2023),SUV7,Limousine 7 Seater,Diesel,Automatic, Jaipur,41.21,14.11 Km/l,2199 cc
+Kia,Carens (2022-2023),SUV6,1.5 Premium 7 STR Diesel,Diesel,Manual, Jaipur,14.85,15.70 Km/l,1497 cc
+Kia,Sonet (2023-2024),SUV5,1.5 HTK Plus iMT Diesel,Diesel,Manual, Jaipur,13.94,18.40 Km/l,1197 cc
+Kia,Seltos (2022-2023),SUV5,1.5 HTX IVT,Petrol,Automatic, Jaipur,17.11,18.00 Km/l,1493 cc
+Kia,Seltos (2023-2023),SUV5,1.5 HTE iMT Diesel,Diesel,Manual, Jaipur,15.14,21.00 Km/l,1493 cc
+Kia,Sonet (2020-2023),SUV5,1.0 HTK Plus DCT,Petrol,Automatic, Jaipur,12.75,18.40 Km/l,1197 cc
+Kia,Carens,SUV7,1.5 Gravity Diesel,Diesel,Manual, Mumbai,17.21,15.70 Km/l,1497 cc
+Kia,Seltos,SUV5,1.5 HTK,Petrol,Manual, Mumbai,15.01,17.90 Km/l,1482 cc
+Kia,Sonet,SUV5,1.2 HTE(O),Petrol,Manual, Mumbai,10.13,18.40 Km/l,1197 cc
+Kia,EV9,SUV6,GT-Line AWD,Electric,Automatic, Mumbai,1.4,561.00 Km/full charge,99800 watt
+Kia,EV6,SUV5,GT Line AWD,Electric,Automatic, Mumbai,68.03,708.00 Km/full charge,77400 watt
+Kia,Carnival,SUV7,Limousine Plus,Diesel,Automatic, Mumbai,78.63,14.85 Km/l,2151 cc
+Kia,Carnival (2020-2023),SUV7,Limousine 7 Seater,Diesel,Automatic, Mumbai,40.36,14.11 Km/l,2199 cc
+Kia,Carens (2022-2023),SUV6,1.5 Premium 7 STR Diesel,Diesel,Manual, Mumbai,14.37,15.70 Km/l,1497 cc
+Kia,Sonet (2023-2024),SUV5,1.0 GTX Plus iMT,Petrol,Manual, Mumbai,15.54,18.40 Km/l,1197 cc
+Kia,Seltos (2022-2023),SUV5,1.5 HTX IVT,Petrol,Automatic, Mumbai,16.58,18.00 Km/l,1493 cc
+Kia,Seltos (2023-2023),SUV5,1.5 HTE iMT Diesel,Diesel,Manual, Mumbai,14.65,21.00 Km/l,1493 cc
+Kia,Sonet (2020-2023),SUV5,1.0 HTK Plus DCT,Petrol,Automatic, Mumbai,12.51,18.40 Km/l,1197 cc
+Kia,Sonet,SUV5,1.0 X Line DCT,Petrol,Automatic, Noida,17.39,18.40 Km/l,1197 cc
+Kia,Seltos,SUV5,1.5 HTK Plus iMT GDi,Petrol,Manual, Noida,18.39,17.90 Km/l,1482 cc
+Kia,Carens,SUV7,1.5 Prestige 7 STR Petrol,Petrol,Manual, Noida,13.98,15.70 Km/l,1497 cc
+Kia,EV9,SUV6,GT-Line AWD,Electric,Automatic, Noida,1.4,561.00 Km/full charge,99800 watt
+Kia,EV6,SUV5,GT Line AWD,Electric,Automatic, Noida,68.05,708.00 Km/full charge,77400 watt
+Kia,Carnival,SUV7,Limousine Plus,Diesel,Automatic, Noida,75.26,14.85 Km/l,2151 cc
+Kia,Carnival (2020-2023),SUV7,Limousine 7 Seater,Diesel,Automatic, Noida,40.4,14.11 Km/l,2199 cc
+Kia,Carens (2022-2023),SUV6,1.5 Premium 7 STR Diesel,Diesel,Manual, Noida,14.38,15.70 Km/l,1497 cc
+Kia,Sonet (2023-2024),SUV5,1.5 HTK Plus iMT Diesel,Diesel,Manual, Noida,13.35,18.40 Km/l,1197 cc
+Kia,Seltos (2022-2023),SUV5,1.5 HTX IVT,Petrol,Automatic, Noida,16.88,18.00 Km/l,1493 cc
+Kia,Seltos (2023-2023),SUV5,1.5 HTE iMT Diesel,Diesel,Manual, Noida,14.66,21.00 Km/l,1493 cc
+Kia,Sonet (2020-2023),SUV5,1.0 HTK Plus DCT,Petrol,Automatic, Noida,12.74,18.40 Km/l,1197 cc
+Kia,Sonet,SUV5,1.2 HTE,Petrol,Manual, Pune,9.34,18.40 Km/l,1197 cc
+Kia,Seltos,SUV5,1.5 HTX,Petrol,Manual, Pune,18.49,17.90 Km/l,1482 cc
+Kia,Carens,SUV7,1.5 Prestige Plus(O) AT 7 STR Diesel,Diesel,Automatic, Pune,20.13,15.70 Km/l,1497 cc
+Kia,EV9,SUV6,GT-Line AWD,Electric,Automatic, Pune,1.4,561.00 Km/full charge,99800 watt
+Kia,EV6,SUV5,GT Line AWD,Electric,Automatic, Pune,68.03,708.00 Km/full charge,77400 watt
+Kia,Carnival,SUV7,Limousine Plus,Diesel,Automatic, Pune,78.63,14.85 Km/l,2151 cc
+Kia,Carnival (2020-2023),SUV7,Limousine 7 Seater,Diesel,Automatic, Pune,40.36,14.11 Km/l,2199 cc
+Kia,Carens (2022-2023),SUV6,1.5 Premium 7 STR Diesel,Diesel,Manual, Pune,14.37,15.70 Km/l,1497 cc
+Kia,Sonet (2023-2024),SUV5,1.5 HTK Plus iMT Diesel,Diesel,Manual, Pune,13.91,18.40 Km/l,1197 cc
+Kia,Seltos (2022-2023),SUV5,1.5 HTX IVT,Petrol,Automatic, Pune,16.58,18.00 Km/l,1493 cc
+Kia,Seltos (2023-2023),SUV5,1.5 HTE iMT Diesel,Diesel,Manual, Pune,14.65,21.00 Km/l,1493 cc
+Kia,Sonet (2020-2023),SUV5,1.0 HTK Plus DCT,Petrol,Automatic, Pune,12.51,18.40 Km/l,1197 cc
+Honda,City,Sedan5,1.5 ZX-R,Petrol,Manual, Bangalore,19.05,17.80 Km/l,1498 cc
+Honda,Amaze (2021-2024),Sedan5,1.2 VX-R CVT Petrol,Petrol,Automatic, Bangalore,11.97,18.60 Km/l,1199 cc
+Honda,Elevate,SUV5,V-R CVT,Petrol,Automatic, Bangalore,17.35,15.31 Km/l,1498 cc
+Honda,Amaze,Sedan5,V,Petrol,Manual, Bangalore,9.74,18.60 Km/l,1199 cc
+Honda,City (2020-2023),Sedan5,1.5 V CVT Petrol,Petrol,Automatic, Bangalore,16.86,17.80 Km/l,1498 cc
+Honda,Jazz (2020-2023),Hatchback5,VX CVT Petrol,Petrol,Automatic, Bangalore,11.95,16.60 Km/l,1199 cc
+Honda,WR-V (2020-2023),SUV5,SV MT Petrol,Petrol,Manual, Bangalore,11.23,16.50 Km/l,1199 cc
+Honda,Amaze,Sedan5,VX CVT,Petrol,Automatic, Chennai,12.06,18.60 Km/l,1199 cc
+Honda,Amaze (2021-2024),Sedan5,1.2 S CVT Petrol,Petrol,Automatic, Chennai,10.6,18.60 Km/l,1199 cc
+Honda,City,Sedan5,1.5 V,Petrol,Manual, Chennai,16.03,17.80 Km/l,1498 cc
+Honda,Elevate,SUV5,ZX,Petrol,Manual, Chennai,19.17,15.31 Km/l,1498 cc
+Honda,City (2020-2023),Sedan5,1.5 V CVT Petrol,Petrol,Automatic, Chennai,16.75,17.80 Km/l,1498 cc
+Honda,Jazz (2020-2023),Hatchback5,VX CVT Petrol,Petrol,Automatic, Chennai,11.71,16.60 Km/l,1199 cc
+Honda,WR-V (2020-2023),SUV5,SV MT Petrol,Petrol,Manual, Chennai,11.01,16.50 Km/l,1199 cc
+Honda,City,Sedan5,1.5 SV-R,Petrol,Manual, Delhi,14.31,17.80 Km/l,1498 cc
+Honda,Amaze (2021-2024),Sedan5,1.2 S-R MT Petrol,Petrol,Manual, Delhi,8.71,18.60 Km/l,1199 cc
+Honda,Elevate,SUV5,SV-R,Petrol,Manual, Delhi,13.98,15.31 Km/l,1498 cc
+Honda,Amaze,Sedan5,V,Petrol,Manual, Delhi,9.17,18.60 Km/l,1199 cc
+Honda,City (2020-2023),Sedan5,1.5 V CVT Petrol,Petrol,Automatic, Delhi,15.67,17.80 Km/l,1498 cc
+Honda,Jazz (2020-2023),Hatchback5,VX CVT Petrol,Petrol,Automatic, Delhi,11.11,16.60 Km/l,1199 cc
+Honda,WR-V (2020-2023),SUV5,SV MT Petrol,Petrol,Manual, Delhi,10.44,16.50 Km/l,1199 cc
+Honda,City,Sedan5,1.5 SV-R,Petrol,Manual, Faridabad,14.05,17.80 Km/l,1498 cc
+Honda,Amaze (2021-2024),Sedan5,1.2 S-R MT Petrol,Petrol,Manual, Faridabad,8.78,18.60 Km/l,1199 cc
+Honda,Elevate,SUV5,SV-R,Petrol,Manual, Faridabad,13.73,15.31 Km/l,1498 cc
+Honda,Amaze,Sedan5,V,Petrol,Manual, Faridabad,9.26,18.60 Km/l,1199 cc
+Honda,City (2020-2023),Sedan5,1.5 V CVT Petrol,Petrol,Automatic, Faridabad,15.45,17.80 Km/l,1498 cc
+Honda,Jazz (2020-2023),Hatchback5,VX CVT Petrol,Petrol,Automatic, Faridabad,11.25,16.60 Km/l,1199 cc
+Honda,WR-V (2020-2023),SUV5,SV MT Petrol,Petrol,Manual, Faridabad,10.58,16.50 Km/l,1199 cc
+Honda,Amaze (2021-2024),Sedan5,1.2 S-R MT Petrol,Petrol,Manual, Ghaziabad,8.78,18.60 Km/l,1199 cc
+Honda,City,Sedan5,1.5 SV-R,Petrol,Manual, Ghaziabad,14.29,17.80 Km/l,1498 cc
+Honda,Elevate,SUV5,SV-R,Petrol,Manual, Ghaziabad,13.97,15.31 Km/l,1498 cc
+Honda,Amaze,Sedan5,V,Petrol,Manual, Ghaziabad,9.26,18.60 Km/l,1199 cc
+Honda,City (2020-2023),Sedan5,1.5 V CVT Petrol,Petrol,Automatic, Ghaziabad,15.69,17.80 Km/l,1498 cc
+Honda,Jazz (2020-2023),Hatchback5,VX CVT Petrol,Petrol,Automatic, Ghaziabad,11.23,16.60 Km/l,1199 cc
+Honda,WR-V (2020-2023),SUV5,SV MT Petrol,Petrol,Manual, Ghaziabad,10.55,16.50 Km/l,1199 cc
+Honda,City,Sedan5,1.5 SV-R,Petrol,Manual, Gurgaon,14.05,17.80 Km/l,1498 cc
+Honda,Amaze (2021-2024),Sedan5,1.2 S-R MT Petrol,Petrol,Manual, Gurgaon,8.78,18.60 Km/l,1199 cc
+Honda,Elevate,SUV5,SV-R,Petrol,Manual, Gurgaon,13.73,15.31 Km/l,1498 cc
+Honda,Amaze,Sedan5,V,Petrol,Manual, Gurgaon,9.26,18.60 Km/l,1199 cc
+Honda,City (2020-2023),Sedan5,1.5 V CVT Petrol,Petrol,Automatic, Gurgaon,15.45,17.80 Km/l,1498 cc
+Honda,Jazz (2020-2023),Hatchback5,VX CVT Petrol,Petrol,Automatic, Gurgaon,11.25,16.60 Km/l,1199 cc
+Honda,WR-V (2020-2023),SUV5,SV MT Petrol,Petrol,Manual, Gurgaon,10.58,16.50 Km/l,1199 cc
+Honda,Amaze (2021-2024),Sedan5,1.2 VX-R CVT Petrol,Petrol,Automatic, Hyderabad,11.89,18.60 Km/l,1199 cc
+Honda,City,Sedan5,1.5 V-R,Petrol,Manual, Hyderabad,15.77,17.80 Km/l,1498 cc
+Honda,Elevate,SUV5,ZX-R,Petrol,Manual, Hyderabad,19.04,15.31 Km/l,1498 cc
+Honda,Amaze,Sedan5,VX CVT,Petrol,Automatic, Hyderabad,12.15,18.60 Km/l,1199 cc
+Honda,City (2020-2023),Sedan5,1.5 V CVT Petrol,Petrol,Automatic, Hyderabad,16.61,17.80 Km/l,1498 cc
+Honda,Jazz (2020-2023),Hatchback5,VX CVT Petrol,Petrol,Automatic, Hyderabad,11.8,16.60 Km/l,1199 cc
+Honda,WR-V (2020-2023),SUV5,SV MT Petrol,Petrol,Manual, Hyderabad,11.09,16.50 Km/l,1199 cc
+Honda,Amaze,Sedan5,VX CVT,Petrol,Automatic, Jaipur,11.78,18.60 Km/l,1199 cc
+Honda,Amaze (2021-2024),Sedan5,1.2 S CVT Petrol,Petrol,Automatic, Jaipur,10.35,18.60 Km/l,1199 cc
+Honda,City,Sedan5,1.5 V,Petrol,Manual, Jaipur,15.23,17.80 Km/l,1498 cc
+Honda,Elevate,SUV5,ZX,Petrol,Manual, Jaipur,18.19,15.31 Km/l,1498 cc
+Honda,City (2020-2023),Sedan5,1.5 V CVT Petrol,Petrol,Automatic, Jaipur,15.9,17.80 Km/l,1498 cc
+Honda,Jazz (2020-2023),Hatchback5,VX CVT Petrol,Petrol,Automatic, Jaipur,11.43,16.60 Km/l,1199 cc
+Honda,WR-V (2020-2023),SUV5,SV MT Petrol,Petrol,Manual, Jaipur,10.74,16.50 Km/l,1199 cc
+Honda,Amaze,Sedan5,VX,Petrol,Manual, Mumbai,10.91,18.60 Km/l,1199 cc
+Honda,City,Sedan5,1.5 V-R CVT,Petrol,Automatic, Mumbai,17.14,17.80 Km/l,1498 cc
+Honda,Elevate,SUV5,ZX-R CVT,Petrol,Automatic, Mumbai,19.84,15.31 Km/l,1498 cc
+Honda,Amaze (2021-2024),Sedan5,1.2 VX-R CVT Petrol,Petrol,Automatic, Mumbai,11.68,18.60 Km/l,1199 cc
+Honda,City (2020-2023),Sedan5,1.5 V CVT Petrol,Petrol,Automatic, Mumbai,15.97,17.80 Km/l,1498 cc
+Honda,Jazz (2020-2023),Hatchback5,VX CVT Petrol,Petrol,Automatic, Mumbai,11.52,16.60 Km/l,1199 cc
+Honda,WR-V (2020-2023),SUV5,SV MT Petrol,Petrol,Manual, Mumbai,10.83,16.50 Km/l,1199 cc
+Honda,Amaze (2021-2024),Sedan5,1.2 S-R MT Petrol,Petrol,Manual, Noida,8.78,18.60 Km/l,1199 cc
+Honda,City,Sedan5,1.5 SV-R,Petrol,Manual, Noida,14.29,17.80 Km/l,1498 cc
+Honda,Elevate,SUV5,SV-R,Petrol,Manual, Noida,13.97,15.31 Km/l,1498 cc
+Honda,Amaze,Sedan5,V,Petrol,Manual, Noida,9.26,18.60 Km/l,1199 cc
+Honda,City (2020-2023),Sedan5,1.5 V CVT Petrol,Petrol,Automatic, Noida,15.69,17.80 Km/l,1498 cc
+Honda,Jazz (2020-2023),Hatchback5,VX CVT Petrol,Petrol,Automatic, Noida,11.23,16.60 Km/l,1199 cc
+Honda,WR-V (2020-2023),SUV5,SV MT Petrol,Petrol,Manual, Noida,10.55,16.50 Km/l,1199 cc
+Honda,City,Sedan5,1.5 VX-R CVT,Petrol,Automatic, Pune,18.14,17.80 Km/l,1498 cc
+Honda,Amaze (2021-2024),Sedan5,1.2 VX-R MT Petrol,Petrol,Manual, Pune,10.63,18.60 Km/l,1199 cc
+Honda,Elevate,SUV5,V-R CVT,Petrol,Automatic, Pune,16.58,15.31 Km/l,1498 cc
+Honda,Amaze,Sedan5,V,Petrol,Manual, Pune,9.42,18.60 Km/l,1199 cc
+Honda,City (2020-2023),Sedan5,1.5 V CVT Petrol,Petrol,Automatic, Pune,15.97,17.80 Km/l,1498 cc
+Honda,Jazz (2020-2023),Hatchback5,VX CVT Petrol,Petrol,Automatic, Pune,11.52,16.60 Km/l,1199 cc
+Honda,WR-V (2020-2023),SUV5,SV MT Petrol,Petrol,Manual, Pune,10.83,16.50 Km/l,1199 cc
+Audi,e-tron Sportback,SUV5,55 Technology,Electric,Automatic, Ahmedabad,1.33,484.00 Km/full charge,95000 watt
+Audi,RS Q8,SUV5,4.0L TFSI,Petrol,Automatic, Ahmedabad,2.38,8.00 Km/l,3996 cc
+Audi,Q7,SUV7,Technology,Petrol,Automatic, Ahmedabad,1.11,11.20 Km/l,2995 cc
+Audi,A8 L,Sedan4,Technology,Hybrid,Automatic, Ahmedabad,1.72,12,2995 cc
+Audi,A6,Sedan5,Technology 45 TFSI,Petrol,Automatic, Ahmedabad,77.2,14.00 Km/l,1984 cc
+Audi,Q5,SUV5,Technology 45 TFSI,Petrol,Automatic, Ahmedabad,75.16,13.40 Km/l,1984 cc
+Audi,Q8 e-tron,SUV5,50,Electric,Automatic, Ahmedabad,1.2,600.00 Km/full charge,114000 watt
+Audi,Q8 Sportback e-tron,Sedan5,55,Electric,Automatic, Ahmedabad,1.39,600.00 Km/full charge,114000 watt
+Audi,S5 Sportback,Coupe5,3.0 TFSI Quattro,Petrol,Automatic, Ahmedabad,82.05,10.60 Km/l,2994 cc
+Audi,Q3,SUV5,40 TFSI Premium Plus,Petrol,Automatic, Ahmedabad,57.79,14.93 Km/l,1984 cc
+Audi,A4,Sedan5,Technology 40 TFSI,Petrol,Automatic, Ahmedabad,64.3,17.40 Km/l,1984 cc
+Audi,e-tron,SUV5,55,Electric,Automatic, Ahmedabad,1.25,484.00 Km/full charge,95000 watt
+Audi,e-tron GT,Sedan5,S,Electric,Automatic, Ahmedabad,1.82,,
+Audi,Q3 Sportback,SUV5,Technology Plus S-line,Petrol,Automatic, Ahmedabad,64.64,14.93 Km/l,1984 cc
+Audi,RS5,Coupe5,Sportback,Petrol,Automatic, Ahmedabad,1.28,10.80 Km/l,2894 cc
+Audi,Q8,SUV5,55 TFSI quattro,Petrol,Automatic, Ahmedabad,1.23,9.80 Km/l,2995 cc
+Audi,e-tron Sportback,SUV5,55 Technology,Electric,Automatic, Bangalore,1.43,484.00 Km/full charge,95000 watt
+Audi,RS Q8,SUV5,4.0L TFSI,Petrol,Automatic, Bangalore,2.73,8.00 Km/l,3996 cc
+Audi,Q7,SUV7,Technology,Petrol,Automatic, Bangalore,1.24,11.20 Km/l,2995 cc
+Audi,A8 L,Sedan4,Technology,Hybrid,Automatic, Bangalore,1.89,12,2995 cc
+Audi,A6,Sedan5,Technology 45 TFSI,Petrol,Automatic, Bangalore,66.91,14.00 Km/l,1984 cc
+Audi,Q5,SUV5,Technology 45 TFSI,Petrol,Automatic, Bangalore,81.96,13.40 Km/l,1984 cc
+Audi,Q8 e-tron,SUV5,50,Electric,Automatic, Bangalore,1.28,600.00 Km/full charge,114000 watt
+Audi,Q8 Sportback e-tron,Sedan5,55,Electric,Automatic, Bangalore,1.53,600.00 Km/full charge,114000 watt
+Audi,S5 Sportback,Coupe5,3.0 TFSI Quattro,Petrol,Automatic, Bangalore,89.57,10.60 Km/l,2994 cc
+Audi,Q3,SUV5,40 TFSI Premium Plus,Petrol,Automatic, Bangalore,50.68,14.93 Km/l,1984 cc
+Audi,A4,Sedan5,Technology 40 TFSI,Petrol,Automatic, Bangalore,56.82,17.40 Km/l,1984 cc
+Audi,e-tron,SUV5,55,Electric,Automatic, Bangalore,1.35,484.00 Km/full charge,95000 watt
+Audi,e-tron GT,Sedan5,S,Electric,Automatic, Bangalore,2.03,,
+Audi,Q3 Sportback,SUV5,Technology Plus S-line,Petrol,Automatic, Bangalore,57.01,14.93 Km/l,1984 cc
+Audi,RS5,Coupe5,Sportback,Petrol,Automatic, Bangalore,1.43,10.80 Km/l,2894 cc
+Audi,Q8,SUV5,55 TFSI quattro,Petrol,Automatic, Bangalore,1.33,9.80 Km/l,2995 cc
+Audi,e-tron Sportback,SUV5,55 Technology,Electric,Automatic, Chennai,1.45,484.00 Km/full charge,95000 watt
+Audi,RS Q8,SUV5,4.0L TFSI,Petrol,Automatic, Chennai,2.73,8.00 Km/l,3996 cc
+Audi,Q7,SUV7,Technology,Petrol,Automatic, Chennai,1.24,11.20 Km/l,2995 cc
+Audi,A8 L,Sedan4,Technology,Hybrid,Automatic, Chennai,1.91,12,2995 cc
+Audi,A6,Sedan5,Technology 45 TFSI,Petrol,Automatic, Chennai,66.48,14.00 Km/l,1984 cc
+Audi,Q5,SUV5,Technology 45 TFSI,Petrol,Automatic, Chennai,82.71,13.40 Km/l,1984 cc
+Audi,Q8 e-tron,SUV5,50,Electric,Automatic, Chennai,1.29,600.00 Km/full charge,114000 watt
+Audi,Q8 Sportback e-tron,Sedan5,55,Electric,Automatic, Chennai,1.53,600.00 Km/full charge,114000 watt
+Audi,S5 Sportback,Coupe5,3.0 TFSI Quattro,Petrol,Automatic, Chennai,90.43,10.60 Km/l,2994 cc
+Audi,Q3,SUV5,40 TFSI Premium Plus,Petrol,Automatic, Chennai,50.25,14.93 Km/l,1984 cc
+Audi,A4,Sedan5,Technology 40 TFSI,Petrol,Automatic, Chennai,56.39,17.40 Km/l,1984 cc
+Audi,e-tron,SUV5,55,Electric,Automatic, Chennai,1.35,484.00 Km/full charge,95000 watt
+Audi,e-tron GT,Sedan5,S,Electric,Automatic, Chennai,2.03,,
+Audi,Q3 Sportback,SUV5,Technology Plus S-line,Petrol,Automatic, Chennai,56.58,14.93 Km/l,1984 cc
+Audi,RS5,Coupe5,Sportback,Petrol,Automatic, Chennai,1.43,10.80 Km/l,2894 cc
+Audi,Q8,SUV5,55 TFSI quattro,Petrol,Automatic, Chennai,1.33,9.80 Km/l,2995 cc
+Audi,e-tron Sportback,SUV5,55 Technology,Electric,Automatic, Delhi,1.3,484.00 Km/full charge,95000 watt
+Audi,RS Q8,SUV5,4.0L TFSI,Petrol,Automatic, Delhi,2.51,8.00 Km/l,3996 cc
+Audi,Q7,SUV7,Technology,Petrol,Automatic, Delhi,1.15,11.20 Km/l,2995 cc
+Audi,A8 L,Sedan4,Technology,Hybrid,Automatic, Delhi,1.84,12,2995 cc
+Audi,A6,Sedan5,Technology 45 TFSI,Petrol,Automatic, Delhi,72.92,14.00 Km/l,1984 cc
+Audi,Q5,SUV5,Technology 45 TFSI,Petrol,Automatic, Delhi,80.12,13.40 Km/l,1984 cc
+Audi,Q8 e-tron,SUV5,50,Electric,Automatic, Delhi,1.18,600.00 Km/full charge,114000 watt
+Audi,Q8 Sportback e-tron,Sedan5,55,Electric,Automatic, Delhi,1.36,600.00 Km/full charge,114000 watt
+Audi,S5 Sportback,Coupe5,3.0 TFSI Quattro,Petrol,Automatic, Delhi,87.64,10.60 Km/l,2994 cc
+Audi,Q3,SUV5,40 TFSI Premium Plus,Petrol,Automatic, Delhi,55.11,14.93 Km/l,1984 cc
+Audi,A4,Sedan5,Technology 40 TFSI,Petrol,Automatic, Delhi,61.85,17.40 Km/l,1984 cc
+Audi,e-tron,SUV5,55,Electric,Automatic, Delhi,1.23,484.00 Km/full charge,95000 watt
+Audi,e-tron GT,Sedan5,S,Electric,Automatic, Delhi,1.77,,
+Audi,Q3 Sportback,SUV5,Technology Plus S-line,Petrol,Automatic, Delhi,62.06,14.93 Km/l,1984 cc
+Audi,RS5,Coupe5,Sportback,Petrol,Automatic, Delhi,1.32,10.80 Km/l,2894 cc
+Audi,Q8,SUV5,55 TFSI quattro,Petrol,Automatic, Delhi,1.33,9.80 Km/l,2995 cc
+Audi,e-tron Sportback,SUV5,55 Technology,Electric,Automatic, Faridabad,1.34,484.00 Km/full charge,95000 watt
+Audi,RS Q8,SUV5,4.0L TFSI,Petrol,Automatic, Faridabad,2.41,8.00 Km/l,3996 cc
+Audi,Q7,SUV7,Technology,Petrol,Automatic, Faridabad,1.15,11.20 Km/l,2995 cc
+Audi,A8 L,Sedan4,Technology,Hybrid,Automatic, Faridabad,1.74,12,2995 cc
+Audi,A6,Sedan5,Technology 45 TFSI,Petrol,Automatic, Faridabad,66.91,14.00 Km/l,1984 cc
+Audi,Q5,SUV5,Technology 45 TFSI,Petrol,Automatic, Faridabad,75.81,13.40 Km/l,1984 cc
+Audi,Q8 e-tron,SUV5,50,Electric,Automatic, Faridabad,1.21,600.00 Km/full charge,114000 watt
+Audi,Q8 Sportback e-tron,Sedan5,55,Electric,Automatic, Faridabad,1.41,600.00 Km/full charge,114000 watt
+Audi,S5 Sportback,Coupe5,3.0 TFSI Quattro,Petrol,Automatic, Faridabad,82.77,10.60 Km/l,2994 cc
+Audi,Q3,SUV5,40 TFSI Premium Plus,Petrol,Automatic, Faridabad,50.68,14.93 Km/l,1984 cc
+Audi,A4,Sedan5,Technology 40 TFSI,Petrol,Automatic, Faridabad,56.82,17.40 Km/l,1984 cc
+Audi,e-tron,SUV5,55,Electric,Automatic, Faridabad,1.26,484.00 Km/full charge,95000 watt
+Audi,e-tron GT,Sedan5,S,Electric,Automatic, Faridabad,1.84,,
+Audi,Q3 Sportback,SUV5,Technology Plus S-line,Petrol,Automatic, Faridabad,57.01,14.93 Km/l,1984 cc
+Audi,RS5,Coupe5,Sportback,Petrol,Automatic, Faridabad,1.32,10.80 Km/l,2894 cc
+Audi,Q8,SUV5,55 TFSI quattro,Petrol,Automatic, Faridabad,1.24,9.80 Km/l,2995 cc
+Audi,e-tron Sportback,SUV5,55 Technology,Electric,Automatic, Ghaziabad,1.37,484.00 Km/full charge,95000 watt
+Audi,RS Q8,SUV5,4.0L TFSI,Petrol,Automatic, Ghaziabad,2.51,8.00 Km/l,3996 cc
+Audi,Q7,SUV7,Technology,Petrol,Automatic, Ghaziabad,1.15,11.20 Km/l,2995 cc
+Audi,A8 L,Sedan4,Technology,Hybrid,Automatic, Ghaziabad,1.79,12,2995 cc
+Audi,A6,Sedan5,Technology 45 TFSI,Petrol,Automatic, Ghaziabad,66.91,14.00 Km/l,1984 cc
+Audi,Q5,SUV5,Technology 45 TFSI,Petrol,Automatic, Ghaziabad,78.08,13.40 Km/l,1984 cc
+Audi,Q8 e-tron,SUV5,50,Electric,Automatic, Ghaziabad,1.24,600.00 Km/full charge,114000 watt
+Audi,Q8 Sportback e-tron,Sedan5,55,Electric,Automatic, Ghaziabad,1.45,600.00 Km/full charge,114000 watt
+Audi,S5 Sportback,Coupe5,3.0 TFSI Quattro,Petrol,Automatic, Ghaziabad,85.28,10.60 Km/l,2994 cc
+Audi,Q3,SUV5,40 TFSI Premium Plus,Petrol,Automatic, Ghaziabad,50.68,14.93 Km/l,1984 cc
+Audi,A4,Sedan5,Technology 40 TFSI,Petrol,Automatic, Ghaziabad,56.82,17.40 Km/l,1984 cc
+Audi,e-tron,SUV5,55,Electric,Automatic, Ghaziabad,1.29,484.00 Km/full charge,95000 watt
+Audi,e-tron GT,Sedan5,S,Electric,Automatic, Ghaziabad,1.76,,
+Audi,Q3 Sportback,SUV5,Technology Plus S-line,Petrol,Automatic, Ghaziabad,57.01,14.93 Km/l,1984 cc
+Audi,RS5,Coupe5,Sportback,Petrol,Automatic, Ghaziabad,1.32,10.80 Km/l,2894 cc
+Audi,Q8,SUV5,55 TFSI quattro,Petrol,Automatic, Ghaziabad,1.27,9.80 Km/l,2995 cc
+Audi,e-tron Sportback,SUV5,55 Technology,Electric,Automatic, Gurgaon,1.34,484.00 Km/full charge,95000 watt
+Audi,RS Q8,SUV5,4.0L TFSI,Petrol,Automatic, Gurgaon,2.41,8.00 Km/l,3996 cc
+Audi,Q7,SUV7,Technology,Petrol,Automatic, Gurgaon,1.15,11.20 Km/l,2995 cc
+Audi,A8 L,Sedan4,Technology,Hybrid,Automatic, Gurgaon,1.74,12,2995 cc
+Audi,A6,Sedan5,Technology 45 TFSI,Petrol,Automatic, Gurgaon,66.91,14.00 Km/l,1984 cc
+Audi,Q5,SUV5,Technology 45 TFSI,Petrol,Automatic, Gurgaon,75.81,13.40 Km/l,1984 cc
+Audi,Q8 e-tron,SUV5,50,Electric,Automatic, Gurgaon,1.21,600.00 Km/full charge,114000 watt
+Audi,Q8 Sportback e-tron,Sedan5,55,Electric,Automatic, Gurgaon,1.41,600.00 Km/full charge,114000 watt
+Audi,S5 Sportback,Coupe5,3.0 TFSI Quattro,Petrol,Automatic, Gurgaon,82.77,10.60 Km/l,2994 cc
+Audi,Q3,SUV5,40 TFSI Premium Plus,Petrol,Automatic, Gurgaon,50.68,14.93 Km/l,1984 cc
+Audi,A4,Sedan5,Technology 40 TFSI,Petrol,Automatic, Gurgaon,56.82,17.40 Km/l,1984 cc
+Audi,e-tron,SUV5,55,Electric,Automatic, Gurgaon,1.26,484.00 Km/full charge,95000 watt
+Audi,e-tron GT,Sedan5,S,Electric,Automatic, Gurgaon,1.84,,
+Audi,Q3 Sportback,SUV5,Technology Plus S-line,Petrol,Automatic, Gurgaon,57.01,14.93 Km/l,1984 cc
+Audi,RS5,Coupe5,Sportback,Petrol,Automatic, Gurgaon,1.32,10.80 Km/l,2894 cc
+Audi,Q8,SUV5,55 TFSI quattro,Petrol,Automatic, Gurgaon,1.24,9.80 Km/l,2995 cc
+Audi,e-tron Sportback,SUV5,55 Technology,Electric,Automatic, Hyderabad,1.43,484.00 Km/full charge,95000 watt
+Audi,RS Q8,SUV5,4.0L TFSI,Petrol,Automatic, Hyderabad,2.69,8.00 Km/l,3996 cc
+Audi,Q7,SUV7,Technology,Petrol,Automatic, Hyderabad,1.15,11.20 Km/l,2995 cc
+Audi,A8 L,Sedan4,Technology,Hybrid,Automatic, Hyderabad,1.89,12,2995 cc
+Audi,A6,Sedan5,Technology 45 TFSI,Petrol,Automatic, Hyderabad,92.65,14.00 Km/l,1984 cc
+Audi,Q5,SUV5,Technology 45 TFSI,Petrol,Automatic, Hyderabad,81.96,13.40 Km/l,1984 cc
+Audi,Q8 e-tron,SUV5,50,Electric,Automatic, Hyderabad,1.28,600.00 Km/full charge,114000 watt
+Audi,Q8 Sportback e-tron,Sedan5,55,Electric,Automatic, Hyderabad,1.52,600.00 Km/full charge,114000 watt
+Audi,S5 Sportback,Coupe5,3.0 TFSI Quattro,Petrol,Automatic, Hyderabad,89.57,10.60 Km/l,2994 cc
+Audi,Q3,SUV5,40 TFSI Premium Plus,Petrol,Automatic, Hyderabad,68.47,14.93 Km/l,1984 cc
+Audi,A4,Sedan5,Technology 40 TFSI,Petrol,Automatic, Hyderabad,75.52,17.40 Km/l,1984 cc
+Audi,e-tron,SUV5,55,Electric,Automatic, Hyderabad,1.34,484.00 Km/full charge,95000 watt
+Audi,e-tron GT,Sedan5,S,Electric,Automatic, Hyderabad,2.01,,
+Audi,Q3 Sportback,SUV5,Technology Plus S-line,Petrol,Automatic, Hyderabad,76.08,14.93 Km/l,1984 cc
+Audi,RS5,Coupe5,Sportback,Petrol,Automatic, Hyderabad,1.41,10.80 Km/l,2894 cc
+Audi,Q8,SUV5,55 TFSI quattro,Petrol,Automatic, Hyderabad,1.32,9.80 Km/l,2995 cc
+Audi,e-tron Sportback,SUV5,55 Technology,Electric,Automatic, Jaipur,1.37,484.00 Km/full charge,95000 watt
+Audi,RS Q8,SUV5,4.0L TFSI,Petrol,Automatic, Jaipur,2.51,8.00 Km/l,3996 cc
+Audi,Q7,SUV7,Technology,Petrol,Automatic, Jaipur,1.16,11.20 Km/l,2995 cc
+Audi,A8 L,Sedan4,Technology,Hybrid,Automatic, Jaipur,1.79,12,2995 cc
+Audi,A6,Sedan5,Technology 45 TFSI,Petrol,Automatic, Jaipur,66.91,14.00 Km/l,1984 cc
+Audi,Q5,SUV5,Technology 45 TFSI,Petrol,Automatic, Jaipur,78.08,13.40 Km/l,1984 cc
+Audi,Q8 e-tron,SUV5,50,Electric,Automatic, Jaipur,1.24,600.00 Km/full charge,114000 watt
+Audi,Q8 Sportback e-tron,Sedan5,55,Electric,Automatic, Jaipur,1.45,600.00 Km/full charge,114000 watt
+Audi,S5 Sportback,Coupe5,3.0 TFSI Quattro,Petrol,Automatic, Jaipur,85.28,10.60 Km/l,2994 cc
+Audi,Q3,SUV5,40 TFSI Premium Plus,Petrol,Automatic, Jaipur,50.68,14.93 Km/l,1984 cc
+Audi,A4,Sedan5,Technology 40 TFSI,Petrol,Automatic, Jaipur,56.82,17.40 Km/l,1984 cc
+Audi,e-tron,SUV5,55,Electric,Automatic, Jaipur,1.29,484.00 Km/full charge,95000 watt
+Audi,e-tron GT,Sedan5,S,Electric,Automatic, Jaipur,1.9,,
+Audi,Q3 Sportback,SUV5,Technology Plus S-line,Petrol,Automatic, Jaipur,57.01,14.93 Km/l,1984 cc
+Audi,RS5,Coupe5,Sportback,Petrol,Automatic, Jaipur,1.34,10.80 Km/l,2894 cc
+Audi,Q8,SUV5,55 TFSI quattro,Petrol,Automatic, Jaipur,1.27,9.80 Km/l,2995 cc
+Audi,e-tron Sportback,SUV5,55 Technology,Electric,Automatic, Mumbai,1.3,484.00 Km/full charge,95000 watt
+Audi,RS Q8,SUV5,4.0L TFSI,Petrol,Automatic, Mumbai,2.58,8.00 Km/l,3996 cc
+Audi,Q7,SUV7,Technology,Petrol,Automatic, Mumbai,1.14,11.20 Km/l,2995 cc
+Audi,A8 L,Sedan4,Technology,Hybrid,Automatic, Mumbai,1.89,12,2995 cc
+Audi,A6,Sedan5,Technology 45 TFSI,Petrol,Automatic, Mumbai,75.03,14.00 Km/l,1984 cc
+Audi,Q5,SUV5,Technology 45 TFSI,Petrol,Automatic, Mumbai,82.42,13.40 Km/l,1984 cc
+Audi,Q8 e-tron,SUV5,50,Electric,Automatic, Mumbai,1.18,600.00 Km/full charge,114000 watt
+Audi,Q8 Sportback e-tron,Sedan5,55,Electric,Automatic, Mumbai,1.36,600.00 Km/full charge,114000 watt
+Audi,S5 Sportback,Coupe5,3.0 TFSI Quattro,Petrol,Automatic, Mumbai,89.96,10.60 Km/l,2994 cc
+Audi,Q3,SUV5,40 TFSI Premium Plus,Petrol,Automatic, Mumbai,56.74,14.93 Km/l,1984 cc
+Audi,A4,Sedan5,Technology 40 TFSI,Petrol,Automatic, Mumbai,63.67,17.40 Km/l,1984 cc
+Audi,e-tron,SUV5,55,Electric,Automatic, Mumbai,1.23,484.00 Km/full charge,95000 watt
+Audi,e-tron GT,Sedan5,S,Electric,Automatic, Mumbai,1.77,,
+Audi,Q3 Sportback,SUV5,Technology Plus S-line,Petrol,Automatic, Mumbai,63.88,14.93 Km/l,1984 cc
+Audi,RS5,Coupe5,Sportback,Petrol,Automatic, Mumbai,1.31,10.80 Km/l,2894 cc
+Audi,Q8,SUV5,55 TFSI quattro,Petrol,Automatic, Mumbai,1.36,9.80 Km/l,2995 cc
+Audi,e-tron Sportback,SUV5,55 Technology,Electric,Automatic, Noida,1.37,484.00 Km/full charge,95000 watt
+Audi,RS Q8,SUV5,4.0L TFSI,Petrol,Automatic, Noida,2.51,8.00 Km/l,3996 cc
+Audi,Q7,SUV7,Technology,Petrol,Automatic, Noida,1.15,11.20 Km/l,2995 cc
+Audi,A8 L,Sedan4,Technology,Hybrid,Automatic, Noida,1.79,12,2995 cc
+Audi,A6,Sedan5,Technology 45 TFSI,Petrol,Automatic, Noida,66.91,14.00 Km/l,1984 cc
+Audi,Q5,SUV5,Technology 45 TFSI,Petrol,Automatic, Noida,78.08,13.40 Km/l,1984 cc
+Audi,Q8 e-tron,SUV5,50,Electric,Automatic, Noida,1.24,600.00 Km/full charge,114000 watt
+Audi,Q8 Sportback e-tron,Sedan5,55,Electric,Automatic, Noida,1.45,600.00 Km/full charge,114000 watt
+Audi,S5 Sportback,Coupe5,3.0 TFSI Quattro,Petrol,Automatic, Noida,85.28,10.60 Km/l,2994 cc
+Audi,Q3,SUV5,40 TFSI Premium Plus,Petrol,Automatic, Noida,50.68,14.93 Km/l,1984 cc
+Audi,A4,Sedan5,Technology 40 TFSI,Petrol,Automatic, Noida,56.82,17.40 Km/l,1984 cc
+Audi,e-tron,SUV5,55,Electric,Automatic, Noida,1.29,484.00 Km/full charge,95000 watt
+Audi,e-tron GT,Sedan5,S,Electric,Automatic, Noida,1.76,,
+Audi,Q3 Sportback,SUV5,Technology Plus S-line,Petrol,Automatic, Noida,57.01,14.93 Km/l,1984 cc
+Audi,RS5,Coupe5,Sportback,Petrol,Automatic, Noida,1.32,10.80 Km/l,2894 cc
+Audi,Q8,SUV5,55 TFSI quattro,Petrol,Automatic, Noida,1.27,9.80 Km/l,2995 cc
+Audi,e-tron Sportback,SUV5,55 Technology,Electric,Automatic, Pune,1.39,484.00 Km/full charge,95000 watt
+Audi,RS Q8,SUV5,4.0L TFSI,Petrol,Automatic, Pune,2.58,8.00 Km/l,3996 cc
+Audi,Q7,SUV7,Technology,Petrol,Automatic, Pune,1.14,11.20 Km/l,2995 cc
+Audi,A8 L,Sedan4,Technology,Hybrid,Automatic, Pune,1.83,12,2995 cc
+Audi,A6,Sedan5,Technology 45 TFSI,Petrol,Automatic, Pune,66.91,14.00 Km/l,1984 cc
+Audi,Q5,SUV5,Technology 45 TFSI,Petrol,Automatic, Pune,79.53,13.40 Km/l,1984 cc
+Audi,Q8 e-tron,SUV5,50,Electric,Automatic, Pune,1.25,600.00 Km/full charge,114000 watt
+Audi,Q8 Sportback e-tron,Sedan5,55,Electric,Automatic, Pune,1.47,600.00 Km/full charge,114000 watt
+Audi,S5 Sportback,Coupe5,3.0 TFSI Quattro,Petrol,Automatic, Pune,86.89,10.60 Km/l,2994 cc
+Audi,Q3,SUV5,40 TFSI Premium Plus,Petrol,Automatic, Pune,50.68,14.93 Km/l,1984 cc
+Audi,A4,Sedan5,Technology 40 TFSI,Petrol,Automatic, Pune,56.82,17.40 Km/l,1984 cc
+Audi,e-tron,SUV5,55,Electric,Automatic, Pune,1.31,484.00 Km/full charge,95000 watt
+Audi,e-tron GT,Sedan5,S,Electric,Automatic, Pune,1.94,,
+Audi,Q3 Sportback,SUV5,Technology Plus S-line,Petrol,Automatic, Pune,57.01,14.93 Km/l,1984 cc
+Audi,RS5,Coupe5,Sportback,Petrol,Automatic, Pune,1.31,10.80 Km/l,2894 cc
+Audi,Q8,SUV5,55 TFSI quattro,Petrol,Automatic, Pune,1.29,9.80 Km/l,2995 cc
+Jaguar,F-Pace,SUV5,S R-Dynamic 2.0 Petrol,Petrol,Automatic, Ahmedabad,78.29,12.90 Km/l,1997 cc
+Jaguar,I-Pace,Coupe2,HSE,Electric,Automatic, Ahmedabad,1.37,470.00 Km/full charge,90000 watt
+Jaguar,F-Pace,SUV5,S R-Dynamic 2.0 Petrol,Petrol,Automatic, Bangalore,88.49,12.90 Km/l,1997 cc
+Jaguar,I-Pace,Coupe2,HSE,Electric,Automatic, Bangalore,1.3,470.00 Km/full charge,90000 watt
+Jaguar,F-Pace,SUV5,S R-Dynamic 2.0 Petrol,Petrol,Automatic, Chennai,89.95,12.90 Km/l,1997 cc
+Jaguar,I-Pace,Coupe2,HSE,Electric,Automatic, Chennai,1.3,470.00 Km/full charge,90000 watt
+Jaguar,F-Pace,SUV5,S R-Dynamic 2.0 Petrol,Petrol,Automatic, Delhi,82.47,12.90 Km/l,1997 cc
+Jaguar,I-Pace,Coupe2,HSE,Electric,Automatic, Delhi,1.29,470.00 Km/full charge,90000 watt
+Jaguar,F-Pace,SUV5,S R-Dynamic 2.0 Petrol,Petrol,Automatic, Faridabad,79.26,12.90 Km/l,1997 cc
+Jaguar,I-Pace,Coupe2,HSE,Electric,Automatic, Faridabad,1.3,470.00 Km/full charge,90000 watt
+Jaguar,F-Pace,SUV5,S R-Dynamic 2.0 Petrol,Petrol,Automatic, Ghaziabad,82.66,12.90 Km/l,1997 cc
+Jaguar,I-Pace,Coupe2,HSE,Electric,Automatic, Ghaziabad,1.3,470.00 Km/full charge,90000 watt
+Jaguar,F-Pace,SUV5,S R-Dynamic 2.0 Petrol,Petrol,Automatic, Gurgaon,79.26,12.90 Km/l,1997 cc
+Jaguar,I-Pace,Coupe2,HSE,Electric,Automatic, Gurgaon,1.3,470.00 Km/full charge,90000 watt
+Jaguar,F-Pace,SUV5,S R-Dynamic 2.0 Petrol,Petrol,Automatic, Hyderabad,88.49,12.90 Km/l,1997 cc
+Jaguar,I-Pace,Coupe2,HSE,Electric,Automatic, Hyderabad,1.48,470.00 Km/full charge,90000 watt
+Jaguar,F-Pace,SUV5,S R-Dynamic 2.0 Petrol,Petrol,Automatic, Jaipur,82.66,12.90 Km/l,1997 cc
+Jaguar,I-Pace,Coupe2,HSE,Electric,Automatic, Jaipur,1.3,470.00 Km/full charge,90000 watt
+Jaguar,F-Pace,SUV5,S R-Dynamic 2.0 Petrol,Petrol,Automatic, Mumbai,84.85,12.90 Km/l,1997 cc
+Jaguar,I-Pace,Coupe2,HSE,Electric,Automatic, Mumbai,1.3,470.00 Km/full charge,90000 watt
+Jaguar,F-Pace,SUV5,S R-Dynamic 2.0 Petrol,Petrol,Automatic, Noida,82.66,12.90 Km/l,1997 cc
+Jaguar,I-Pace,Coupe2,HSE,Electric,Automatic, Noida,1.3,470.00 Km/full charge,90000 watt
+Jaguar,F-Pace,SUV5,S R-Dynamic 2.0 Petrol,Petrol,Automatic, Pune,84.85,12.90 Km/l,1997 cc
+Jaguar,I-Pace,Coupe2,HSE,Electric,Automatic, Pune,1.3,470.00 Km/full charge,90000 watt

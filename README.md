@@ -6,37 +6,37 @@ This project involves web scraping car data from the Acko Cars website, followed
 
 **Tech Stack 🛠️**
 
-**Programming Language*: Python
+*Programming Language*: Python
 
-**Web Scraping*: BeautifulSoup, Requests
+*Web Scraping*: BeautifulSoup, Requests
 
-**Data Processing*: Pandas, NumPy
+*Data Processing*: Pandas, NumPy
 
-*Data Visualization**: Matplotlib, Seaborn
+*Data Visualization*: Matplotlib, Seaborn
 
-*Jupyter Notebook**: For interactive data analysis
+*Jupyter Notebook*: For interactive data analysis
 
 
 **Metadata for Columns:**
 
 
-**Brand:* The manufacturer of the car (e.g., Audi, BMW, Maruti Suzuki)
+*Brand:* The manufacturer of the car (e.g., Audi, BMW, Maruti Suzuki)
 
-**Model:* The specific model name of the car (e.g., Q5, X5, Swift)
+*Model:* The specific model name of the car (e.g., Q5, X5, Swift)
 
-**Variant:* The trim level or version of the car model (e.g., Sport, Limited, LXI)
+*Variant:* The trim level or version of the car model (e.g., Sport, Limited, LXI)
 
-**Body:* The body type of the car (e.g., SUV, Sedan, Hatchback)
+*Body:* The body type of the car (e.g., SUV, Sedan, Hatchback)
 
 **Fuel:* The type of fuel the car uses (e.g., Petrol, Diesel, Electric, CNG)
 
-**Transmission:* The type of transmission system (e.g., Manual, Automatic, CVT)
+*Transmission:* The type of transmission system (e.g., Manual, Automatic, CVT)
 
-**Mileage:* The fuel efficiency of the car in km/l or km per charge
+*Mileage:* The fuel efficiency of the car in km/l or km per charge
 
-**Engine Power:* The power output of the engine measured in bhp or kW
+*Engine Power:* The power output of the engine measured in bhp or kW
 
-**Price:** The cost of the car in INR
+*Price:* The cost of the car in INR
 
 
 

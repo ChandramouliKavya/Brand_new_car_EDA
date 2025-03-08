@@ -16,7 +16,9 @@ This project involves web scraping car data from the Acko Cars website, followed
 
 **Jupyter Notebook**: For interactive data analysis
 
-**Metadata for Columns**
+
+**Metadata for Columns:**
+
 
 **Brand:** The manufacturer of the car (e.g., Audi, BMW, Maruti Suzuki)
 
@@ -37,6 +39,7 @@ This project involves web scraping car data from the Acko Cars website, followed
 **Price:** The cost of the car in INR
 
 
+
 📊**Data Analysis:**
 
 **Exploratory Data Analysis (EDA)**: Identified missing values, outliers, and correlations between different features.
@@ -45,12 +48,15 @@ This project involves web scraping car data from the Acko Cars website, followed
 
 **Statistical Analysis**: Performed trend analysis on car prices based on attributes like engine power, brand, and location.
 
+
+
 📈**Visualizations:**
 
 Distribution of car prices and mileage
 Brand-wise average pricing
 Heatmaps for correlation between numerical features
 State-wise car price variations
+
 
 
 💡**Future Enhancements**

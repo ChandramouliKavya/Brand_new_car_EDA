@@ -28,7 +28,7 @@ This project involves web scraping car data from the Acko Cars website, followed
 
 *Body:* The body type of the car (e.g., SUV, Sedan, Hatchback)
 
-**Fuel:* The type of fuel the car uses (e.g., Petrol, Diesel, Electric, CNG)
+*Fuel:* The type of fuel the car uses (e.g., Petrol, Diesel, Electric, CNG)
 
 *Transmission:* The type of transmission system (e.g., Manual, Automatic, CVT)
 
